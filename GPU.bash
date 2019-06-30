@@ -13,9 +13,15 @@ pip install jupyterlab --user
 jupyter serverextension enable --py jupyterlab
 jupyter kernelspec list
 
+conda info -e
+conda create -n theanoGPU python=3.6.8 anaconda
+source activate theanoGPU
+
+
 pipinstall pgustat --user
 gpustat
-jupyter notebook --no-browser --port=8000
+nvidia-msi
+THEANO_FLAGS='device=cuda,floatX=float32' jupyter notebook --no-browser --port=8000
 lsof -i -P -n
 -----------To check | kill ports, use
 lsof -ti:8000 | xargs kill -9
