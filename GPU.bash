@@ -2,7 +2,7 @@ ssh yan30@carbonate.uits.iu.edu
 
 squeue
 sinfo
-srun -p dl -N 1 --ntasks-per-node=12 --gres=gpu:p100:1 --time=12:00:00 --pty bash
+srun -p dl -N 1 --ntasks-per-node=12 --gres=gpu:p100:1 --time=24:00:00 --pty bash
 
 netstat -atu
 
@@ -20,7 +20,7 @@ source activate theanoGPU
 
 pipinstall pgustat --user
 gpustat
-nvidia-msi
+nvidia-smi
 THEANO_FLAGS='device=cuda,floatX=float32' jupyter notebook --no-browser --port=8000
 lsof -i -P -n
 -----------To check | kill ports, use
