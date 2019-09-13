@@ -16,9 +16,11 @@ jupyter kernelspec list
 conda info -e
 conda env create -f environment.yml
 source activate tf-prob
+pip install tensorflow-gpu==2.0.0-rc1
+pip install --upgrade tensorflow-probability
 
 
-pipinstall pgustat --user
+pipinstall gpustat --user
 gpustat
 nvidia-smi
 THEANO_FLAGS='device=cuda,floatX=float32' jupyter notebook --no-browser --port=8000 --ip=149.165.230.85
