@@ -14,8 +14,8 @@ jupyter serverextension enable --py jupyterlab
 jupyter kernelspec list
 
 conda info -e
-conda create -n theanoGPU python=3.6.8 anaconda
-source activate theanoGPU
+conda env create -f environment.yml
+source activate tf-prob
 
 
 pipinstall pgustat --user
