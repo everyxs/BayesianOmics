@@ -1,0 +1,7 @@
+name: tf-prob:  
+  - python=3.6  
+  - jupyter  
+  - ipython  
+  - pandas
+  - matplotlib
+  - seaborn
