@@ -17,7 +17,7 @@ conda info -e
 conda env create -f environment.yml
 source activate tf-prob
 conda install -c conda-forge cudatoolkity
-pip install tensorflow-gpu==2.0.0-rc1
+pip install tensorflow-gpu==2.0.0-rc1 --user
 pip install --upgrade tensorflow-probability
 
 
