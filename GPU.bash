@@ -7,7 +7,7 @@ srun -p dl -N 1 --ntasks-per-node=12 --gres=gpu:v100:1 --time=48:00:00 --pty bas
 netstat -atu
 
 cd /gpfs/projects/UITS/IUNI/IMAGENE/
-module swap python/3.6.8
+module load deeplearning/1.13.1
 export PATH=$PATH:~/.local/bin
 pip install jupyterlab --user
 jupyter serverextension enable --py jupyterlab
@@ -16,6 +16,7 @@ jupyter kernelspec list
 conda info -e
 conda env create -f environment.yml
 source activate tf-prob
+conda install -c conda-forge cudatoolkity
 pip install tensorflow-gpu==2.0.0-rc1
 pip install --upgrade tensorflow-probability
 
