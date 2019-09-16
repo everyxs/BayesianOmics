@@ -16,9 +16,8 @@ jupyter kernelspec list
 conda info -e
 conda env create -f environment.yml
 source activate tf-prob
-conda install -c conda-forge cudatoolkity
-pip install tensorflow-gpu==2.0.0-rc1 --user
-pip install --upgrade tensorflow-probability
+#conda install tensorflow-gpu
+pip install --upgrade tensorflow-probability==0.6
 
 
 pip install gpustat --user
