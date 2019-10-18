@@ -9,6 +9,8 @@ netstat -atu
 cd /gpfs/projects/UITS/IUNI/IMAGENE/
 module load anaconda/3
 export PATH=$PATH:~/.local/bin
+
+conda install -c anaconda tensorflow-gpu cudatoolkit=10.0
 conda install -c conda-forge jupyterlab
 jupyter serverextension enable --py jupyterlab
 jupyter kernelspec list
@@ -16,9 +18,9 @@ jupyter kernelspec list
 conda info -e
 conda env create -f environment.yml
 source activate tf-prob
-#conda install tensorflow-gpu
-pip install --upgrade tensorflow-probability==0.7
-
+pip install --upgrade tensorflow-gpu==2.0
+pip install --upgrade tensorflow-probability==0.8
+conda clean --all
 
 pip install gpustat --user
 gpustat
