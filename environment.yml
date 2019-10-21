@@ -1,10 +1,12 @@
 name: tf-prob
 dependencies:
-  - python=3.6  
-  - jupyter  
-  - ipython  
+  - python=3.6
+  - jupyter
+  - jupyterlab
+  - ipython
   - pandas
   - matplotlib
   - seaborn
-  - tensorflow-gpu
+  - tensorflow-gpu cudatoolkit=10.0
   - nb_conda
+  - networkx
