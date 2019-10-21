@@ -10,3 +10,4 @@ dependencies:
   - tensorflow-gpu cudatoolkit=10.0
   - nb_conda
   - networkx
+  - numexpr
