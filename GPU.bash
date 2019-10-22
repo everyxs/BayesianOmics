@@ -17,6 +17,7 @@ jupyter kernelspec list
 
 conda info -e
 conda env create -f environment.yml
+module load anaconda/3
 source activate tf-prob
 pip install --upgrade tensorflow-gpu==2.0
 pip install --upgrade tensorflow-probability==0.8
