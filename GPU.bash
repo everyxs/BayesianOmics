@@ -7,6 +7,7 @@ srun -p dl -N 1 --ntasks-per-node=12 --gres=gpu:v100:1 --time=48:00:00 --pty bas
 netstat -atu
 
 cd /gpfs/projects/UITS/IUNI/IMAGENE/
+cd /gpfs/sciencegnome/
 module load anaconda/3
 export PATH=$PATH:~/.local/bin
 
