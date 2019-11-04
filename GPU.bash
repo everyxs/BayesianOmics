@@ -11,7 +11,7 @@ cd /gpfs/sciencegnome/
 module load anaconda/3
 export PATH=$PATH:~/.local/bin
 
-conda install -c anaconda tensorflow-gpu cudatoolkit=10.0
+conda install -c anaconda tensorflow-gpu cudatoolkit=10.0 
 conda install -c conda-forge jupyterlab
 jupyter serverextension enable --py jupyterlab
 jupyter kernelspec list
@@ -20,8 +20,9 @@ conda info -e
 conda env create -f environment.yml
 module load anaconda/3
 source activate tf-prob
-pip install --upgrade tensorflow-gpu==2.0
-pip install --upgrade tensorflow-probability==0.8
+-----use pip to overwrite the conda TF version-----
+pip install --upgrade tensorflow-gpu==2.0 --user
+pip install --upgrade tensorflow-probability==0.8 --user
 conda clean --all
 
 pip install gpustat --user
