@@ -12,3 +12,4 @@ dependencies:
   - numpy
   - matplotlib
   - scikit-learn
+  - tensorflow-gpu==2.0.0
