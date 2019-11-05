@@ -3,11 +3,13 @@ dependencies:
   - python=3.6
   - jupyter
   - jupyterlab
-  - ipython
   - pandas
   - matplotlib
   - seaborn
-  - tensorflow-gpu cudatoolkit=10.0
+  - tensorflow-gpu=1.13.1 cudatoolkit=10.0
   - nb_conda
   - networkx
   - numexpr
+  - numpy==1.15.0
+  - matplotlib==2.2.2
+  - scikit-learn
