@@ -6,7 +6,7 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
-  - tensorflow-gpu=1.13.1 cudatoolkit=10.0
+  - tensorflow-gpu==1.13.1 cudatoolkit=10.0
   - nb_conda
   - networkx
   - numexpr
