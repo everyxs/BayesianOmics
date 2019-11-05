@@ -17,13 +17,14 @@ jupyter serverextension enable --py jupyterlab
 jupyter kernelspec list
 
 conda info -e
-conda env create -f environment.yml
+conda env create -f environment.yml --prefix /home/yan30/.conda
 module load anaconda/3
-source activate tf-prob
+source activate /home/yan30/.conda
 -----use pip to overwrite the conda TF version-----
 pip install --upgrade tensorflow-gpu==2.0 --user
 pip install --upgrade tensorflow-probability==0.8 --user
 conda clean --all
+checkusage /u/yan30
 
 pip install gpustat --user
 gpustat
