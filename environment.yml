@@ -6,10 +6,9 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
-  - tensorflow-gpu==1.13.1
   - nb_conda
   - networkx
   - numexpr
-  - numpy==1.15.0
-  - matplotlib==2.2.2
+  - numpy
+  - matplotlib
   - scikit-learn
