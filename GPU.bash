@@ -8,7 +8,6 @@ netstat -atu
 
 cd /gpfs/projects/UITS/IUNI/IMAGENE/
 cd /gpfs/sciencegnome/
-module load anaconda/3
 export PATH=$PATH:~/.local/bin
 
 conda install -c anaconda tensorflow-gpu cudatoolkit=10.0 
@@ -25,6 +24,7 @@ pip install --upgrade tensorflow-gpu==2.0 --user
 pip install --upgrade tensorflow-probability==0.8 --user
 conda clean --all
 checkusage /u/yan30
+cd /home/filsilva/OAGContest/
 
 pip install gpustat --user
 gpustat
