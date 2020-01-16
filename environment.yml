@@ -1,6 +1,5 @@
 name: tf-prob
 dependencies:
-  - python=3.6
   - jupyter
   - jupyterlab
   - pandas
