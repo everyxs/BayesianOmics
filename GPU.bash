@@ -39,5 +39,5 @@ Open a RED desktop
 Point RED browser to 149.165.230.95/token
 
 Open another terminal locally,
-ssh -t -t yan30@carbonate.uits.iu.edu -L 8001:localhost:8000 ssh dl1 -L 8000:localhost:8000
+ssh -t -t yan30@ember.sice.indiana.edu -L 8001:localhost:8000
 Point your browser to localhost:8001
