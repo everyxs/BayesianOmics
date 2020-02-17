@@ -1,6 +1,5 @@
 name: ddot
 dependencies:
-  - python=2.7
   - numpy
   - scipy
   - pandas
