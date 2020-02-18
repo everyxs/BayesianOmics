@@ -2,7 +2,7 @@ name: ddot
 dependencies:
   - numpy
   - scipy
-  - pandas
+  - pandas==0.23
   - seaborn
   - libiconv
-  - networkx=1.11
+  - networkx==1.11
