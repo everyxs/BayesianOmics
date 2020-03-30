@@ -2,98 +2,94 @@ Getting ontology 1
 Getting ontology 2
 Minimum similarity value accepted: 0.01
 No parent child criss cross allowed
-Terms in first ontology: 511	Nodes in second ontology: 513
+Terms in first ontology: 515	Nodes in second ontology: 513
 Calculating extsim
 calculateExtSim took 0 seconds
 Starting iteration
 Adding relSim to simMat
 addRelSimToSimMat took 0 seconds
 Aligning
-Mappings in alignment: 494
+Mappings in alignment: 497
 Alignment took 0 seconds
 Got an alignment
 Starting iteration
 Adding relSim to simMat
 addRelSimToSimMat took 0 seconds
 Aligning
-Mappings in alignment: 493
+Mappings in alignment: 496
 Alignment took 0 seconds
 Got an alignment
 Starting iteration
 Adding relSim to simMat
 addRelSimToSimMat took 0 seconds
 Aligning
-Mappings in alignment: 493
+Mappings in alignment: 496
 Alignment took 0 seconds
 Got an alignment
 Starting iteration
 Adding relSim to simMat
 addRelSimToSimMat took 0 seconds
 Aligning
-Mappings in alignment: 493
-Alignment took 0 seconds
-Got an alignment
-Starting iteration
-Adding relSim to simMat
-addRelSimToSimMat took 0 seconds
-Aligning
-Mappings in alignment: 493
+Mappings in alignment: 496
 Alignment took 0 seconds
 Got an alignment
 Matched
-subsystem14	Other MMR factors	0.148238
-subsystem192	G1-CC phase	0.0509551
-subsystem28	G2-CC phase	0.177561
-subsystem247	BER	0.0586597
-subsystem134	Deubiquitinating enzyme (DUB)	0.061652
-subsystem292	Genes with probable DDR role	0.124808
-subsystem272	MMR	0.072954
-subsystem58	Direct Repair	0.014493
-subsystem280	TCR (Transcription coupled repair)	0.113566
-subsystem290	HR (Homologous Recombination)	0.087299
-subsystem33	Other DSR genes	0.0755807
-subsystem36	Chromatin remodelling	0.0665924
-subsystem40	DNA polymerase kappa	0.155473
-subsystem42	GGR (Global genome repair)	0.119014
-subsystem49	LONG PATCH-BER factors	0.0908437
-subsystem116	damage in S phase	0.295548
-subsystem149	AP endonucleases	0.178344
-subsystem154	RAD9-Hus1-Rad1 complex	0.149715
-subsystem384	NER	0.155877
-subsystem389	Telomere maintenance	0.0902687
-subsystem391	G2-M checkpoint	0.0802705
-subsystem2	UBL-specific proteases (ULPs)	0.0895914
-subsystem39	Other SSR genes	0.297025
-subsystem157	p53 pathway	0.0790311
-subsystem396	Associated process	0.291
-subsystem401	Checkpoint factors	0.110296
-subsystem398	FA (Fanconi anemia pathway)	0.0744085
-subsystem0	MutS homologs specialized for meiosis	0.296194
-subsystem7	Chromosome segregation	0.0734156
-subsystem15	Direct Repair (not in humans)	0.299854
-subsystem29	HRAD17(Rad24)- RFC complex	0.153129
-subsystem34	RFC (replication factor C)	0.150361
-subsystem35	G1-S checkpoint	0.0868414
-subsystem37	S-CC phase	0.226046
-subsystem94	NHEJ	0.0455665
-subsystem95	Ubiquitin ligases (E3)	0.128152
-subsystem96	Mismatch and loop recognition factors	0.150361
-subsystem451	DSR	0.181336
-subsystem286	Alt-NHEJ	0.183042
-subsystem456	SSR	0.211635
-subsystem805	Repair pathway	0.618724
-subsystem1	Topisomerase damage reversal	0.022887
-subsystem4	Ubiquitin response	0.0229324
-subsystem5	Y-family DNA polymerases	0.127156
-subsystem8	DNA glycosylases	0.0774945
-subsystem52	Modulation of nucleotide pools	0.147887
-subsystem193	Ubiquitins	0.219082
-subsystem269	Other single Ring- finger type E3	0.219467
-subsystem405	Ubiquitin-conjugating enzymes	0.219221
-subsystem407	SUMO	0.175438
-subsystem408	Alternative mechanism	0.202599
-subsystem410	SHORT PATCH-BER factors	0.223328
-subsystem413	Ubiquitin activating enzyme	0.437763
-subsystem414	MRN Complex	0.219083
-subsystem462	DNA replication	0.18938
-subsystem463	TLS	0.02292
+subsystem158	Alternative mechanism	0.105302
+subsystem38	MRN Complex	0.152788
+subsystem159	Topisomerase damage reversal	0.027147
+subsystem72	single Ring-finger type E4	0.443794
+subsystem76	epistasis group	0.0893134
+subsystem161	UBL-specific proteases (ULPs)	0.06767
+subsystem19	RPA (replication factor A)	0.177247
+subsystem23	SHORT PATCH-BER factors	0.178717
+subsystem25	Other DSR genes	0.0793415
+subsystem33	Modulation of nucleotide pools	0.130067
+subsystem98	Alt-NHEJ	0.181425
+subsystem164	TCR (Transcription coupled repair)	0.0704881
+subsystem10	DNA polymerase delta	0.0757389
+subsystem11	Riddle syndrome!	0.439143
+subsystem14	G2-CC phase	0.296328
+subsystem16	GGR (Global genome repair)	0.113657
+subsystem28	DNA glycosylases	0.0644419
+subsystem31	Y-family DNA polymerases	0.112715
+subsystem197	FA (Fanconi anemia pathway)	0.0760293
+subsystem198	Genes with probable DDR role	0.0500332
+subsystem65	MutS homologs specialized for meiosis	0.295763
+subsystem207	Deubiquitinating enzyme (DUB)	0.0637284
+subsystem42	Ubiquitin activating enzyme	0.44302
+subsystem208	BER	0.0727011
+subsystem209	Ubiquitin- conjugating enzymes (E2)	0.11469
+subsystem73	UBL-conjugating enzymes	0.442469
+subsystem211	Checkpoint factors	0.133119
+subsystem82	NHEJ	0.0759793
+subsystem213	Ubiquitin- activating enzymes (E1)	0.169152
+subsystem120	UBL-activating enzymes	0.0115497
+subsystem215	Telomere maintenance	0.0958533
+subsystem39	Other BER factors	0.0919205
+subsystem216	Other SSR genes	0.017332
+subsystem239	NER	0.0835098
+subsystem240	HR (Homologous Recombination)	0.119497
+subsystem241	MMR	0.0768827
+subsystem243	TLS	0.0596632
+subsystem34	DNA polymerase kappa	0.293715
+subsystem318	SSR	0.189567
+subsystem1	Other MMR factors	0.179145
+subsystem7	G2-M checkpoint	0.0963369
+subsystem8	Rad17-Mec3- Ddc1 complex	0.446337
+subsystem130	MutL homologs	0.179145
+subsystem323	DSR	0.145391
+subsystem330	Chromatin remodelling	0.0612999
+subsystem370	Ubiquitin response	0.0959087
+subsystem247	Mismatch and loop recognition factors	0.221496
+subsystem432	Associated process	0.355885
+subsystem2	G1-S checkpoint	0.0879079
+subsystem5	p53 pathway	0.114562
+subsystem9	DNA replication	0.0168273
+subsystem195	Chromosome segregation	0.0817499
+subsystem219	Ubiquitin-conjugating enzymes	0.219523
+subsystem249	Direct Repair	0.0172797
+subsystem743	Repair pathway	0.619624
+subsystem6	LONG PATCH-BER factors	0.0920793
+subsystem17	Ubiquitin ligases (E3)	0.123458
+subsystem85	G1-CC phase	0.0791596
+subsystem381	Direct Repair (not in humans)	0.0114504

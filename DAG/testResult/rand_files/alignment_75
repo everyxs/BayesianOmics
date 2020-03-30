@@ -2,97 +2,92 @@ Getting ontology 1
 Getting ontology 2
 Minimum similarity value accepted: 0.01
 No parent child criss cross allowed
-Terms in first ontology: 511	Nodes in second ontology: 513
+Terms in first ontology: 515	Nodes in second ontology: 513
 Calculating extsim
 calculateExtSim took 0 seconds
 Starting iteration
 Adding relSim to simMat
 addRelSimToSimMat took 0 seconds
 Aligning
-Mappings in alignment: 492
+Mappings in alignment: 487
 Alignment took 0 seconds
 Got an alignment
 Starting iteration
 Adding relSim to simMat
 addRelSimToSimMat took 0 seconds
 Aligning
-Mappings in alignment: 492
+Mappings in alignment: 487
 Alignment took 0 seconds
 Got an alignment
 Starting iteration
 Adding relSim to simMat
 addRelSimToSimMat took 0 seconds
 Aligning
-Mappings in alignment: 492
+Mappings in alignment: 487
 Alignment took 0 seconds
 Got an alignment
 Starting iteration
 Adding relSim to simMat
 addRelSimToSimMat took 0 seconds
 Aligning
-Mappings in alignment: 492
+Mappings in alignment: 487
 Alignment took 0 seconds
 Got an alignment
 Starting iteration
 Adding relSim to simMat
 addRelSimToSimMat took 0 seconds
 Aligning
-Mappings in alignment: 492
+Mappings in alignment: 487
 Alignment took 0 seconds
 Got an alignment
 Matched
-subsystem10	LONG PATCH-BER factors	0.0890437
-subsystem247	NHEJ	0.0490703
-subsystem292	Genes with probable DDR role	0.141978
-subsystem272	Telomere maintenance	0.0656571
-subsystem58	Chromosome segregation	0.0688428
-subsystem280	FA (Fanconi anemia pathway)	0.0987108
-subsystem290	HR (Homologous Recombination)	0.0953399
-subsystem12	p53 pathway	0.0899309
-subsystem33	Other DSR genes	0.0779834
-subsystem36	Ubiquitins	0.125741
-subsystem42	SUMO	0.175732
-subsystem43	Chromatin remodelling	0.0687188
-subsystem149	UBL-activating enzymes	0.219186
-subsystem164	G1-S checkpoint	0.179089
-subsystem384	BER	0.0728656
-subsystem389	Checkpoint factors	0.0856248
-subsystem391	HRAD17(Rad24)- RFC complex	0.0882773
-subsystem2	DNA polymerase epsilon	0.177796
-subsystem31	TLS	0.0559183
-subsystem39	DNA replication	0.150129
-subsystem157	FPC (fork protection complex)	0.179495
-subsystem396	Associated process	0.281093
-subsystem401	DSR	0.224298
-subsystem398	NER	0.0698999
-subsystem0	Other single Ring- finger type E3	0.438965
-subsystem6	S-CC phase	0.296848
-subsystem7	single Ring-finger type E3	0.438965
-subsystem15	AP endonucleases	0.296538
-subsystem29	RPA (replication factor A)	0.178308
-subsystem34	Ubiquitin ligases (E3)	0.129466
-subsystem35	MutL homologs	0.178308
-subsystem94	Y-family DNA polymerases	0.127587
-subsystem96	DNA polymerase delta	0.0709031
-subsystem194	SHORT PATCH-BER factors	0.223621
-subsystem451	Ubiquitin response	0.0557156
-subsystem286	MMR	0.0369346
-subsystem456	SSR	0.146751
-subsystem805	Repair pathway	0.618684
-subsystem1	TCR (Transcription coupled repair)	0.0283327
-subsystem4	Alt-NHEJ	0.188448
-subsystem5	UBL-conjugating enzymes	0.437958
-subsystem8	Other MMR factors	0.1779
-subsystem26	Other BER factors	0.0560394
-subsystem52	G2-M checkpoint	0.0936516
-subsystem269	UBL-specific proteases (ULPs)	0.073893
-subsystem313	G1-CC phase	0.0790683
-subsystem405	MutS homologs specialized for meiosis	0.294566
-subsystem407	Topisomerase damage reversal	0.0228852
-subsystem408	Direct Repair	0.232375
-subsystem410	damage in S phase	0.297818
-subsystem413	Modulation of nucleotide pools	0.0228852
-subsystem414	DNA glycosylases	0.0774855
-subsystem461	Direct Repair (not in humans)	0.0110831
-subsystem462	Other SSR genes	0.0136255
-subsystem463	RAD9-Hus1-Rad1 complex	0.151985
+subsystem159	Other DSR genes	0.0738479
+subsystem63	G2-M checkpoint	0.0909329
+subsystem160	Ubiquitin-conjugating enzymes	0.080445
+subsystem76	AP endonucleases	0.147565
+subsystem161	epistasis group	0.034991
+subsystem19	UBL-specific proteases (ULPs)	0.0884291
+subsystem21	DNA polymerase epsilon	0.178405
+subsystem23	SUMO	0.146856
+subsystem164	TCR (Transcription coupled repair)	0.0552976
+subsystem11	RFC (replication factor C)	0.148999
+subsystem14	Modulation of nucleotide pools	0.129552
+subsystem28	DNA replication	0.126927
+subsystem197	TLS	0.0718333
+subsystem198	MMR	0.0585
+subsystem65	GGR (Global genome repair)	0.114226
+subsystem207	Ubiquitin ligases (E3)	0.0328658
+subsystem208	Genes with probable DDR role	0.0807607
+subsystem209	Alt-NHEJ	0.0164941
+subsystem73	Direct Repair	0.22105
+subsystem211	SSR	0.129384
+subsystem82	FA (Fanconi anemia pathway)	0.0815869
+subsystem213	BER	0.0322937
+subsystem120	LONG PATCH-BER factors	0.0895515
+subsystem216	Other SSR genes	0.0165651
+subsystem239	Telomere maintenance	0.0923621
+subsystem240	Ubiquitin response	0.0886031
+subsystem15	Deubiquitinating enzyme (DUB)	0.0748046
+subsystem241	NER	0.0955667
+subsystem243	Topisomerase damage reversal	0.0252817
+subsystem318	DSR	0.17298
+subsystem1	NHEJ	0.0454887
+subsystem7	Chromosome segregation	0.0727659
+subsystem8	Rad17-Mec3- Ddc1 complex	0.443351
+subsystem22	G1-CC phase	0.0787676
+subsystem143	Other BER factors	0.0553146
+subsystem323	Checkpoint factors	0.0538114
+subsystem217	p53 pathway	0.0964106
+subsystem330	HR (Homologous Recombination)	0.0841303
+subsystem370	Chromatin remodelling	0.0730837
+subsystem247	G2-CC phase	0.296049
+subsystem432	Associated process	0.335855
+subsystem2	Other MMR factors	0.178719
+subsystem5	G1-S checkpoint	0.0862367
+subsystem9	DNA glycosylases	0.0775052
+subsystem195	Mismatch and loop recognition factors	0.222469
+subsystem249	RPA (replication factor A)	0.178719
+subsystem743	Repair pathway	0.619488
+subsystem6	Direct Repair (not in humans)	0.011372
+subsystem17	DNA polymerase delta	0.0844929
+subsystem85	HRAD17(Rad24)- RFC complex	0.152184

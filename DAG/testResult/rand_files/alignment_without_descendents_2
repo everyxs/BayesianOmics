@@ -1,48 +1,49 @@
-subsystem389	DSR	0.198409
-subsystem456	SSR	0.190151
-subsystem401	NER	0.117075
-subsystem272	BER	0.0882947
-subsystem149	TLS	0.056799
-subsystem391	NHEJ	0.0543448
-subsystem193	MMR	0.0450514
-subsystem313	Alt-NHEJ	0.0134481
-subsystem95	Modulation of nucleotide pools	0.144159
-subsystem94	Other MMR factors	0.179526
-subsystem8	GGR (Global genome repair)	0.116788
-subsystem805	Repair pathway	0.618716
-subsystem7	MutL homologs	0.179526
-subsystem6	LONG PATCH-BER factors	0.0926215
-subsystem5	G1-S checkpoint	0.0857307
-subsystem4	Deubiquitinating enzyme (DUB)	0.0819141
-subsystem463	DNA replication	0.189381
-subsystem462	Other SSR genes	0.0136175
-subsystem451	Checkpoint factors	0.10656
-subsystem42	Ubiquitin activating enzyme	0.438337
-subsystem414	Chromosome segregation	0.0775749
-subsystem410	Other DSR genes	0.0863647
-subsystem40	RPA (replication factor A)	0.0995318
-subsystem408	DNA polymerase epsilon	0.182413
-subsystem39	G1-CC phase	0.070233
-subsystem398	Ubiquitin response	0.076408
-subsystem396	Associated process	0.288674
-subsystem384	Telomere maintenance	0.0761486
-subsystem36	Direct Repair (not in humans)	0.151668
-subsystem35	p53 pathway	0.106659
-subsystem34	Mismatch and loop recognition factors	0.223276
-subsystem33	RAD9-Hus1-Rad1 complex	0.130539
-subsystem31	UBL-specific proteases (ULPs)	0.0895902
-subsystem292	Genes with probable DDR role	0.0891887
-subsystem290	HR (Homologous Recombination)	0.103614
-subsystem28	Topisomerase damage reversal	0.226624
-subsystem286	damage in S phase	0.29627
-subsystem280	FA (Fanconi anemia pathway)	0.0640103
-subsystem269	Other BER factors	0.101819
-subsystem247	TCR (Transcription coupled repair)	0.0577677
-subsystem1	Chromatin remodelling	0.0853874
-subsystem194	Ubiquitin ligases (E3)	0.129723
-subsystem16	Direct Repair	0.22043
-subsystem157	FPC (fork protection complex)	0.177925
-subsystem155	DNA glycosylases	0.0574865
-subsystem14	G2-CC phase	0.220433
-subsystem12	Ubiquitin-conjugating enzymes	0.175738
-subsystem116	HRAD17(Rad24)- RFC complex	0.151372
+subsystem318	DSR	0.172932
+subsystem370	SSR	0.137813
+subsystem76	Ubiquitins	0.127679
+subsystem241	BER	0.115901
+subsystem240	NER	0.114903
+subsystem330	TLS	0.0737126
+subsystem239	MMR	0.0713622
+subsystem219	NHEJ	0.050955
+subsystem243	Alt-NHEJ	0.0174014
+subsystem98	UBL-specific proteases (ULPs)	0.0893124
+subsystem8	Deubiquitinating enzyme (DUB)	0.0843186
+subsystem83	LONG PATCH-BER factors	0.0921562
+subsystem82	Topisomerase damage reversal	0.0658821
+subsystem743	Repair pathway	0.61953
+subsystem6	damage in S phase	0.297877
+subsystem66	MutS homologs specialized for meiosis	0.222385
+subsystem65	p53 pathway	0.095288
+subsystem432	Associated process	0.343853
+subsystem42	DNA polymerase delta	0.0837237
+subsystem32	GGR (Global genome repair)	0.110899
+subsystem323	RAD9-Hus1-Rad1 complex	0.0419462
+subsystem2	Chromosome segregation	0.0806403
+subsystem249	DNA glycosylases	0.0779786
+subsystem247	DNA replication	0.0171127
+subsystem21	S-CC phase	0.29348
+subsystem217	Rad17-Mec3- Ddc1 complex	0.441087
+subsystem216	HRAD17(Rad24)- RFC complex	0.185487
+subsystem215	FA (Fanconi anemia pathway)	0.0739966
+subsystem213	RFC (replication factor C)	0.232644
+subsystem211	HR (Homologous Recombination)	0.102022
+subsystem209	Other DSR genes	0.130911
+subsystem208	Ubiquitin response	0.0789137
+subsystem207	Genes with probable DDR role	0.0369191
+subsystem1	FPC (fork protection complex)	0.297993
+subsystem198	Checkpoint factors	0.0568591
+subsystem197	Telomere maintenance	0.0560425
+subsystem195	Other SSR genes	0.0166662
+subsystem17	Modulation of nucleotide pools	0.14794
+subsystem164	Other BER factors	0.0678062
+subsystem161	TCR (Transcription coupled repair)	0.0995615
+subsystem160	Ubiquitins and Ubiquitin-like proteins	0.0839336
+subsystem15	DNA polymerase epsilon	0.150812
+subsystem159	Direct Repair	0.0167189
+subsystem158	Chromatin remodelling	0.067136
+subsystem14	SHORT PATCH-BER factors	0.224678
+subsystem148	AP endonucleases	0.22644
+subsystem130	Direct Repair (not in humans)	0.299158
+subsystem122	G2-CC phase	0.179396
+subsystem10	G1-S checkpoint	0.0753034

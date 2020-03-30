@@ -1,52 +1,54 @@
-subsystem401	SSR	0.199642
-subsystem413	Alt-NHEJ	0.188448
-subsystem398	DSR	0.178895
-subsystem290	NER	0.103101
-subsystem280	BER	0.092885
-subsystem389	TLS	0.0894145
-subsystem37	MMR	0.0416701
-subsystem26	NHEJ	0.0134482
-subsystem96	DNA polymerase kappa	0.226927
-subsystem8	AP endonucleases	0.296261
-subsystem805	Repair pathway	0.618711
-subsystem7	DNA polymerases	0.442056
-subsystem5	DNA polymerase delta	0.0844155
-subsystem58	Modulation of nucleotide pools	0.142579
-subsystem52	LONG PATCH-BER factors	0.0920947
-subsystem4	S-CC phase	0.297889
-subsystem49	DNA glycosylases	0.0782284
-subsystem462	single Ring-finger type E4	0.438225
-subsystem461	Chromosome segregation	0.0776163
-subsystem456	Telomere maintenance	0.0654271
-subsystem451	Ubiquitin response	0.092725
-subsystem43	HRAD17(Rad24)- RFC complex	0.114534
-subsystem414	G2-M checkpoint	0.0937222
-subsystem410	FA (Fanconi anemia pathway)	0.0377537
-subsystem40	FPC (fork protection complex)	0.130159
-subsystem408	G1-CC phase	0.0791388
-subsystem396	Associated process	0.294709
-subsystem391	Topisomerase damage reversal	0.0229388
-subsystem384	Checkpoint factors	0.0963482
-subsystem36	Riddle syndrome!	0.176212
-subsystem35	GGR (Global genome repair)	0.117552
-subsystem33	Chromatin remodelling	0.0736313
-subsystem31	p53 pathway	0.0927574
-subsystem313	DNA polymerase epsilon	0.18245
-subsystem2	G2-CC phase	0.295395
-subsystem292	Genes with probable DDR role	0.0925912
-subsystem28	Direct Repair	0.151953
-subsystem286	Deubiquitinating enzyme (DUB)	0.0827966
-subsystem272	HR (Homologous Recombination)	0.0688737
-subsystem269	Other DSR genes	0.148064
-subsystem247	TCR (Transcription coupled repair)	0.0635386
-subsystem194	G1-S checkpoint	0.0861379
-subsystem193	Other MMR factors	0.177896
-subsystem192	DNA replication	0.0176578
-subsystem18	Y-family DNA polymerases	0.129478
-subsystem15	Other BER factors	0.114081
-subsystem154	UBL-specific proteases (ULPs)	0.0888887
-subsystem149	Direct Repair (not in humans)	0.181068
-subsystem134	Ubiquitin-conjugating enzymes	0.126064
-subsystem11	Other SSR genes	0.439854
-subsystem10	epistasis group	0.130615
-subsystem0	MutS homologs specialized for meiosis	0.295316
+subsystem33	Ubiquitins	0.219776
+subsystem318	SSR	0.185831
+subsystem6	SUMO	0.175446
+subsystem323	DSR	0.133861
+subsystem208	NER	0.0824797
+subsystem241	MMR	0.0743505
+subsystem215	TLS	0.0541187
+subsystem213	BER	0.0540783
+subsystem219	NHEJ	0.0503218
+subsystem9	Alt-NHEJ	0.0166679
+subsystem98	Modulation of nucleotide pools	0.129277
+subsystem8	Y-family DNA polymerases	0.128479
+subsystem85	G1-S checkpoint	0.0859427
+subsystem83	LONG PATCH-BER factors	0.0897671
+subsystem82	Chromatin remodelling	0.0768967
+subsystem7	Other DSR genes	0.0855329
+subsystem76	G1-CC phase	0.0615866
+subsystem743	Repair pathway	0.619505
+subsystem65	DNA glycosylases	0.0751664
+subsystem5	Rad17-Mec3- Ddc1 complex	0.444311
+subsystem432	Associated process	0.325297
+subsystem42	AP endonucleases	0.293433
+subsystem370	Genes with probable DDR role	0.0699664
+subsystem34	Topisomerase damage reversal	0.295287
+subsystem330	Ubiquitins and Ubiquitin-like proteins	0.0195113
+subsystem32	G2-M checkpoint	0.0894341
+subsystem2	RAD9-Hus1-Rad1 complex	0.152645
+subsystem28	TCR (Transcription coupled repair)	0.0429356
+subsystem25	Mismatch and loop recognition factors	0.221751
+subsystem249	GGR (Global genome repair)	0.116785
+subsystem243	Chromosome segregation	0.0636976
+subsystem240	HR (Homologous Recombination)	0.0997431
+subsystem239	Telomere maintenance	0.0769203
+subsystem21	DNA replication	0.177819
+subsystem217	DNA polymerase epsilon	0.179738
+subsystem216	Ubiquitin- conjugating enzymes (E2)	0.0954695
+subsystem211	Checkpoint factors	0.101458
+subsystem209	FA (Fanconi anemia pathway)	0.0583112
+subsystem207	Other MMR factors	0.0327443
+subsystem1	single Ring-finger type E4	0.438192
+subsystem198	Ubiquitin response	0.0343108
+subsystem197	Direct Repair (not in humans)	0.0257678
+subsystem195	Other SSR genes	0.0168637
+subsystem17	G2-CC phase	0.298064
+subsystem164	RPA (replication factor A)	0.0583044
+subsystem161	damage in S phase	0.038161
+subsystem159	Direct Repair	0.0169171
+subsystem14	p53 pathway	0.0920165
+subsystem148	S-CC phase	0.223495
+subsystem138	Other BER factors	0.057547
+subsystem122	UBL-conjugating enzymes	0.225016
+subsystem120	MutL homologs	0.177686
+subsystem11	Ubiquitin-conjugating enzymes	0.22044
+subsystem10	MRN Complex	0.176746

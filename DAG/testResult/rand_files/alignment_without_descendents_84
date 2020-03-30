@@ -1,49 +1,49 @@
-subsystem463	Ubiquitins	0.219082
-subsystem389	SSR	0.201604
-subsystem313	Alt-NHEJ	0.188447
-subsystem401	DSR	0.180526
-subsystem149	SUMO	0.125379
-subsystem290	NER	0.115973
-subsystem456	BER	0.0729483
-subsystem11	NHEJ	0.0718134
-subsystem280	MMR	0.0614028
-subsystem36	TLS	0.0522279
-subsystem96	S-CC phase	0.181935
-subsystem94	Y-family DNA polymerases	0.129248
-subsystem8	Modulation of nucleotide pools	0.147918
-subsystem805	Repair pathway	0.618714
-subsystem7	G1-S checkpoint	0.0864801
-subsystem6	Other DSR genes	0.085319
-subsystem52	Topisomerase damage reversal	0.022918
-subsystem4	DNA polymerases	0.439641
-subsystem462	HRAD17(Rad24)- RFC complex	0.152035
-subsystem461	p53 pathway	0.110418
-subsystem451	FA (Fanconi anemia pathway)	0.0637902
-subsystem43	RPA (replication factor A)	0.128329
-subsystem42	DNA replication	0.18143
-subsystem414	G2-M checkpoint	0.200646
-subsystem413	GGR (Global genome repair)	0.116798
-subsystem410	Telomere maintenance	0.0534261
-subsystem408	Ubiquitin ligases (E3)	0.128225
-subsystem407	Direct Repair	0.0136065
-subsystem405	Other SSR genes	0.0136065
-subsystem398	Chromatin remodelling	0.0813869
-subsystem396	Associated process	0.293752
-subsystem391	Ubiquitin response	0.0591626
-subsystem384	Checkpoint factors	0.0916015
-subsystem37	MRN Complex	0.175627
-subsystem35	Chromosome segregation	0.0740777
-subsystem34	LONG PATCH-BER factors	0.0921782
-subsystem2	damage in S phase	0.294626
-subsystem29	Other BER factors	0.0561488
-subsystem292	Genes with probable DDR role	0.146742
-subsystem28	RFC (replication factor C)	0.111575
-subsystem286	AP endonucleases	0.294782
-subsystem272	TCR (Transcription coupled repair)	0.0867815
-subsystem26	Direct Repair (not in humans)	0.302688
-subsystem269	MutL homologs	0.127891
-subsystem247	HR (Homologous Recombination)	0.0732239
-subsystem1	Mismatch and loop recognition factors	0.221641
-subsystem194	SHORT PATCH-BER factors	0.223428
-subsystem134	DNA polymerase delta	0.0683732
-subsystem0	G1-CC phase	0.0798513
+subsystem219	Ubiquitins	0.219374
+subsystem318	DSR	0.166589
+subsystem211	SSR	0.129462
+subsystem76	Alt-NHEJ	0.113421
+subsystem239	BER	0.0942435
+subsystem215	NHEJ	0.06609
+subsystem208	NER	0.058643
+subsystem240	TLS	0.0487475
+subsystem216	MMR	0.0432356
+subsystem9	S-CC phase	0.29981
+subsystem8	SHORT PATCH-BER factors	0.223326
+subsystem85	p53 pathway	0.110435
+subsystem83	Y-family DNA polymerases	0.129015
+subsystem82	Rad17-Mec3- Ddc1 complex	0.0555709
+subsystem7	AP endonucleases	0.296243
+subsystem743	Repair pathway	0.619507
+subsystem73	DNA polymerase delta	0.0821134
+subsystem6	HRAD17(Rad24)- RFC complex	0.152086
+subsystem66	GGR (Global genome repair)	0.0997596
+subsystem63	Other DSR genes	0.076084
+subsystem432	Associated process	0.349518
+subsystem42	Mismatch and loop recognition factors	0.220116
+subsystem39	Ubiquitin ligases (E3)	0.0799189
+subsystem381	Direct Repair (not in humans)	0.0105755
+subsystem370	FA (Fanconi anemia pathway)	0.0605416
+subsystem330	Checkpoint factors	0.0735123
+subsystem32	Riddle syndrome!	0.442696
+subsystem323	Telomere maintenance	0.0652678
+subsystem2	TCR (Transcription coupled repair)	0.0286193
+subsystem28	RPA (replication factor A)	0.127377
+subsystem249	G2-M checkpoint	0.0956433
+subsystem243	Topisomerase damage reversal	0.0265173
+subsystem241	Other BER factors	0.077757
+subsystem23	Ubiquitins and Ubiquitin-like proteins	0.161773
+subsystem213	Deubiquitinating enzyme (DUB)	0.0695901
+subsystem209	LONG PATCH-BER factors	0.13869
+subsystem207	HR (Homologous Recombination)	0.0493182
+subsystem198	Chromatin remodelling	0.113873
+subsystem197	Ubiquitin response	0.0673657
+subsystem195	Other SSR genes	0.0158679
+subsystem17	Chromosome segregation	0.0776226
+subsystem164	Genes with probable DDR role	0.0596359
+subsystem161	G1-S checkpoint	0.0312252
+subsystem160	Other MMR factors	0.0735346
+subsystem159	Direct Repair	0.015918
+subsystem143	DNA glycosylases	0.0774929
+subsystem122	DNA replication	0.127696
+subsystem120	Modulation of nucleotide pools	0.129249
+subsystem10	UBL-specific proteases (ULPs)	0.0809763
