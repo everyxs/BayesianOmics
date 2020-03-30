@@ -1,0 +1,49 @@
+subsystem95	Ubiquitins	0.219385
+subsystem401	SSR	0.196534
+subsystem389	DSR	0.161813
+subsystem290	NER	0.102667
+subsystem391	TLS	0.0979341
+subsystem384	BER	0.0681227
+subsystem398	MMR	0.067931
+subsystem5	NHEJ	0.0471005
+subsystem410	Alt-NHEJ	0.0134466
+subsystem96	DNA polymerase kappa	0.226253
+subsystem805	Repair pathway	0.618697
+subsystem7	Other DSR genes	0.0848141
+subsystem6	single Ring-finger type E4	0.438757
+subsystem52	AP endonucleases	0.296258
+subsystem4	S-CC phase	0.297842
+subsystem463	DNA polymerase delta	0.0844155
+subsystem462	SHORT PATCH-BER factors	0.223341
+subsystem456	HR (Homologous Recombination)	0.0694635
+subsystem451	TCR (Transcription coupled repair)	0.0763492
+subsystem413	Other single Ring- finger type E3	0.438197
+subsystem40	Topisomerase damage reversal	0.158044
+subsystem408	FA (Fanconi anemia pathway)	0.0377522
+subsystem407	MRN Complex	0.219083
+subsystem39	Y-family DNA polymerases	0.115811
+subsystem396	Associated process	0.304345
+subsystem37	Telomere maintenance	0.0812572
+subsystem36	Chromosome segregation	0.109433
+subsystem35	GGR (Global genome repair)	0.116878
+subsystem34	Other BER factors	0.056152
+subsystem313	Direct Repair (not in humans)	0.011697
+subsystem29	Modulation of nucleotide pools	0.145256
+subsystem292	Genes with probable DDR role	0.112258
+subsystem28	RAD9-Hus1-Rad1 complex	0.112914
+subsystem280	Ubiquitin response	0.0644087
+subsystem272	Checkpoint factors	0.0979645
+subsystem269	Other SSR genes	0.232351
+subsystem247	Chromatin remodelling	0.0567035
+subsystem1	DNA glycosylases	0.077508
+subsystem193	UBL-specific proteases (ULPs)	0.0884765
+subsystem16	G2-M checkpoint	0.0891684
+subsystem164	HRAD17(Rad24)- RFC complex	0.151218
+subsystem15	Direct Repair	0.013622
+subsystem157	LONG PATCH-BER factors	0.162673
+subsystem154	Other MMR factors	0.178686
+subsystem14	Ubiquitins and Ubiquitin-like proteins	0.161162
+subsystem134	G2-CC phase	0.149921
+subsystem12	MutS homologs specialized for meiosis	0.222436
+subsystem116	p53 pathway	0.0997111
+subsystem0	DNA replication	0.187812

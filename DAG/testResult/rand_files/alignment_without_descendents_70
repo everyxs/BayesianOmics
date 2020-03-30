@@ -1,0 +1,51 @@
+subsystem31	Ubiquitins	0.221495
+subsystem451	DSR	0.197815
+subsystem401	SSR	0.189365
+subsystem286	Alt-NHEJ	0.183824
+subsystem149	SUMO	0.126071
+subsystem272	NER	0.0927276
+subsystem456	BER	0.0838636
+subsystem95	TLS	0.0689348
+subsystem194	NHEJ	0.0472793
+subsystem193	MMR	0.0136269
+subsystem96	DNA polymerases	0.222505
+subsystem8	Ubiquitin ligases (E3)	0.128303
+subsystem805	Repair pathway	0.618717
+subsystem7	DNA glycosylases	0.164057
+subsystem5	MutL homologs	0.177905
+subsystem58	G2-M checkpoint	0.0931886
+subsystem52	p53 pathway	0.110386
+subsystem4	Direct Repair	0.0136002
+subsystem462	Other BER factors	0.0560481
+subsystem414	SHORT PATCH-BER factors	0.223327
+subsystem413	damage in S phase	0.297855
+subsystem410	epistasis group	0.127123
+subsystem40	Mismatch and loop recognition factors	0.111689
+subsystem408	Direct Repair (not in humans)	0.303771
+subsystem407	G1-CC phase	0.079105
+subsystem39	RFC (replication factor C)	0.128317
+subsystem398	Chromatin remodelling	0.065906
+subsystem396	Associated process	0.291243
+subsystem391	Chromosome segregation	0.0783621
+subsystem389	Checkpoint factors	0.0856355
+subsystem384	TCR (Transcription coupled repair)	0.06624
+subsystem37	MutS homologs specialized for meiosis	0.222375
+subsystem36	Topisomerase damage reversal	0.186683
+subsystem34	Other DSR genes	0.0865422
+subsystem33	Modulation of nucleotide pools	0.121058
+subsystem2	RAD9-Hus1-Rad1 complex	0.149501
+subsystem292	Genes with probable DDR role	0.110885
+subsystem290	HR (Homologous Recombination)	0.0987784
+subsystem280	Telomere maintenance	0.0867301
+subsystem269	Other SSR genes	0.23235
+subsystem247	FA (Fanconi anemia pathway)	0.0604898
+subsystem1	DNA polymerase epsilon	0.182484
+subsystem18	AP endonucleases	0.295646
+subsystem16	UBL-specific proteases (ULPs)	0.0923346
+subsystem15	LONG PATCH-BER factors	0.0924664
+subsystem157	single Ring-finger type E3	0.221136
+subsystem156	Ubiquitin response	0.0380038
+subsystem154	G1-S checkpoint	0.0837343
+subsystem134	DNA replication	0.12126
+subsystem12	Y-family DNA polymerases	0.111548
+subsystem116	Deubiquitinating enzyme (DUB)	0.0811261

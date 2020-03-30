@@ -1,0 +1,52 @@
+subsystem4	Ubiquitins	0.219083
+subsystem389	SSR	0.185258
+subsystem35	SUMO	0.175855
+subsystem451	DSR	0.169817
+subsystem36	Alt-NHEJ	0.117082
+subsystem290	NER	0.0991335
+subsystem384	BER	0.0779142
+subsystem269	TLS	0.0675248
+subsystem462	NHEJ	0.0470994
+subsystem410	MMR	0.0136516
+subsystem96	Chromatin remodelling	0.0759242
+subsystem95	Modulation of nucleotide pools	0.142591
+subsystem94	Other BER factors	0.0560625
+subsystem8	G1-CC phase	0.0792152
+subsystem805	Repair pathway	0.618656
+subsystem5	G2-CC phase	0.297965
+subsystem58	Ubiquitin-conjugating enzymes	0.219738
+subsystem52	Topisomerase damage reversal	0.022886
+subsystem463	G1-S checkpoint	0.085844
+subsystem461	Direct Repair	0.232375
+subsystem456	HR (Homologous Recombination)	0.0740374
+subsystem43	Chromosome segregation	0.0593018
+subsystem42	Ubiquitin-like proteins (UBLs)	0.161682
+subsystem414	DNA replication	0.18938
+subsystem413	Ubiquitin- conjugating enzymes (E2)	0.162111
+subsystem408	Other SSR genes	0.013625
+subsystem407	epistasis group	0.127256
+subsystem405	SHORT PATCH-BER factors	0.223329
+subsystem401	Genes with probable DDR role	0.155687
+subsystem39	DNA polymerase epsilon	0.1499
+subsystem398	Checkpoint factors	0.0869132
+subsystem396	Associated process	0.275716
+subsystem391	DNA polymerases	0.0552867
+subsystem33	Deubiquitinating enzyme (DUB)	0.0739551
+subsystem313	MutS homologs specialized for meiosis	0.294575
+subsystem292	TCR (Transcription coupled repair)	0.0679599
+subsystem28	FPC (fork protection complex)	0.178014
+subsystem280	Ubiquitin response	0.0676166
+subsystem272	Telomere maintenance	0.0827018
+subsystem26	LONG PATCH-BER factors	0.0920793
+subsystem247	FA (Fanconi anemia pathway)	0.0542773
+subsystem1	G2-M checkpoint	0.0937985
+subsystem194	Other DSR genes	0.084116
+subsystem193	Direct Repair (not in humans)	0.0108611
+subsystem18	DNA polymerase delta	0.0831611
+subsystem15	Ubiquitin ligases (E3)	0.12442
+subsystem155	p53 pathway	0.0729432
+subsystem14	UBL-specific proteases (ULPs)	0.0836971
+subsystem149	AP endonucleases	0.179288
+subsystem134	Riddle syndrome!	0.175755
+subsystem116	HRAD17(Rad24)- RFC complex	0.150409
+subsystem10	single Ring-finger type E3	0.443078

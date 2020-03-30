@@ -1,0 +1,54 @@
+subsystem463	Ubiquitins	0.219082
+subsystem389	SSR	0.206274
+subsystem401	DSR	0.203542
+subsystem95	Alt-NHEJ	0.189163
+subsystem157	SUMO	0.127563
+subsystem290	NER	0.116697
+subsystem398	BER	0.0937385
+subsystem8	TLS	0.0729882
+subsystem391	MMR	0.0508341
+subsystem462	NHEJ	0.0471027
+subsystem96	p53 pathway	0.0905284
+subsystem805	Repair pathway	0.618726
+subsystem7	DNA polymerase epsilon	0.182364
+subsystem5	Telomere maintenance	0.0534312
+subsystem58	RAD9-Hus1-Rad1 complex	0.152515
+subsystem52	Topisomerase damage reversal	0.022923
+subsystem4	UBL-conjugating enzymes	0.437958
+subsystem49	Other BER factors	0.0567781
+subsystem461	Other single Ring- finger type E3	0.438266
+subsystem456	Chromatin remodelling	0.0770936
+subsystem451	Checkpoint factors	0.105423
+subsystem42	MutL homologs	0.178333
+subsystem414	G2-M checkpoint	0.0937155
+subsystem413	Chromosome segregation	0.0776105
+subsystem410	SHORT PATCH-BER factors	0.223341
+subsystem40	Other MMR factors	0.100555
+subsystem408	Direct Repair (not in humans)	0.303253
+subsystem407	GGR (Global genome repair)	0.116814
+subsystem405	DNA replication	0.0144017
+subsystem396	Associated process	0.275566
+subsystem38	Riddle syndrome!	0.294658
+subsystem384	Ubiquitin response	0.0764441
+subsystem36	Ubiquitin-conjugating enzymes	0.12574
+subsystem35	G1-S checkpoint	0.0864101
+subsystem31	epistasis group	0.129311
+subsystem313	Direct Repair	0.232378
+subsystem292	Genes with probable DDR role	0.10097
+subsystem286	G1-CC phase	0.0774693
+subsystem280	HR (Homologous Recombination)	0.0812401
+subsystem272	FA (Fanconi anemia pathway)	0.0690442
+subsystem26	HRAD17(Rad24)- RFC complex	0.152049
+subsystem247	TCR (Transcription coupled repair)	0.0775773
+subsystem1	AP endonucleases	0.296258
+subsystem194	Modulation of nucleotide pools	0.142612
+subsystem193	Other SSR genes	0.0136277
+subsystem192	Ubiquitin ligases (E3)	0.0701146
+subsystem15	G2-CC phase	0.298531
+subsystem155	Deubiquitinating enzyme (DUB)	0.0649882
+subsystem154	RPA (replication factor A)	0.178333
+subsystem14	UBL-specific proteases (ULPs)	0.0837436
+subsystem149	UBL-activating enzymes	0.21919
+subsystem134	DNA polymerase delta	0.140545
+subsystem116	MRN Complex	0.219487
+subsystem0	Other DSR genes	0.0870794

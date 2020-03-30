@@ -1,0 +1,51 @@
+subsystem8	Ubiquitins	0.219083
+subsystem401	DSR	0.210111
+subsystem389	SSR	0.18535
+subsystem414	SUMO	0.175438
+subsystem272	NER	0.124655
+subsystem38	TLS	0.0964863
+subsystem156	MMR	0.0699231
+subsystem0	NHEJ	0.0483273
+subsystem96	BER	0.0299391
+subsystem34	Alt-NHEJ	0.0146734
+subsystem95	Y-family DNA polymerases	0.128037
+subsystem94	LONG PATCH-BER factors	0.0910365
+subsystem805	Repair pathway	0.618732
+subsystem6	MutS homologs specialized for meiosis	0.295009
+subsystem58	Other BER factors	0.0543528
+subsystem52	Other SSR genes	0.0136262
+subsystem4	p53 pathway	0.110389
+subsystem462	Ubiquitin-conjugating enzymes	0.219221
+subsystem461	G2-CC phase	0.298023
+subsystem456	Chromatin remodelling	0.0703958
+subsystem451	Genes with probable DDR role	0.0675158
+subsystem40	epistasis group	0.0825012
+subsystem408	Ubiquitin-like proteins (UBLs)	0.1618
+subsystem405	Topisomerase damage reversal	0.0228889
+subsystem398	Checkpoint factors	0.0915719
+subsystem396	Associated process	0.294508
+subsystem391	Direct Repair	0.0608229
+subsystem384	Telomere maintenance	0.0813632
+subsystem36	UBL-activating enzymes	0.175387
+subsystem33	Modulation of nucleotide pools	0.122448
+subsystem31	DNA glycosylases	0.0755344
+subsystem2	HRAD17(Rad24)- RFC complex	0.14953
+subsystem292	TCR (Transcription coupled repair)	0.096907
+subsystem290	HR (Homologous Recombination)	0.0944606
+subsystem280	FA (Fanconi anemia pathway)	0.085452
+subsystem26	Direct Repair (not in humans)	0.0115274
+subsystem269	Chromosome segregation	0.12583
+subsystem247	Ubiquitin response	0.051023
+subsystem1	single Ring-finger type E4	0.438276
+subsystem193	GGR (Global genome repair)	0.116859
+subsystem192	DNA replication	0.0167384
+subsystem18	Other DSR genes	0.0823471
+subsystem16	RPA (replication factor A)	0.179529
+subsystem164	DNA polymerase epsilon	0.182122
+subsystem15	G2-M checkpoint	0.0934073
+subsystem157	RAD9-Hus1-Rad1 complex	0.113072
+subsystem155	Deubiquitinating enzyme (DUB)	0.0639391
+subsystem14	UBL-specific proteases (ULPs)	0.0836736
+subsystem149	damage in S phase	0.179777
+subsystem134	MRN Complex	0.125891
+subsystem11	Mismatch and loop recognition factors	0.223279

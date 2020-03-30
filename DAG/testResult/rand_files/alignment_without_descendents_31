@@ -1,0 +1,52 @@
+subsystem456	DSR	0.230164
+subsystem401	SSR	0.186455
+subsystem269	Alt-NHEJ	0.13845
+subsystem272	NER	0.116577
+subsystem414	TLS	0.0729686
+subsystem389	BER	0.0577236
+subsystem391	NHEJ	0.0550522
+subsystem384	MMR	0.0524796
+subsystem96	Direct Repair (not in humans)	0.18165
+subsystem8	RAD9-Hus1-Rad1 complex	0.15214
+subsystem805	Repair pathway	0.618743
+subsystem6	p53 pathway	0.106116
+subsystem58	DNA polymerase kappa	0.445237
+subsystem52	Other BER factors	0.0560651
+subsystem4	Other DSR genes	0.0863665
+subsystem463	HRAD17(Rad24)- RFC complex	0.15214
+subsystem462	Other SSR genes	0.0136135
+subsystem451	Checkpoint factors	0.105502
+subsystem43	S-CC phase	0.180491
+subsystem42	GGR (Global genome repair)	0.115519
+subsystem410	Topisomerase damage reversal	0.0229257
+subsystem40	FPC (fork protection complex)	0.130491
+subsystem405	G1-S checkpoint	0.0858521
+subsystem39	G1-CC phase	0.0702293
+subsystem398	Chromatin remodelling	0.0710296
+subsystem396	Associated process	0.281479
+subsystem38	Telomere maintenance	0.0688779
+subsystem36	Modulation of nucleotide pools	0.0997045
+subsystem35	MutL homologs	0.178544
+subsystem34	Direct Repair	0.231602
+subsystem313	DNA replication	0.189403
+subsystem2	RPA (replication factor A)	0.178324
+subsystem29	UBL-specific proteases (ULPs)	0.0884955
+subsystem292	TCR (Transcription coupled repair)	0.074419
+subsystem290	HR (Homologous Recombination)	0.124667
+subsystem28	LONG PATCH-BER factors	0.074704
+subsystem286	G2-M checkpoint	0.0920562
+subsystem280	FA (Fanconi anemia pathway)	0.0993168
+subsystem26	Chromosome segregation	0.0776132
+subsystem247	Genes with probable DDR role	0.063063
+subsystem194	G2-CC phase	0.298542
+subsystem193	Ubiquitin response	0.0229712
+subsystem192	DNA polymerase delta	0.0545799
+subsystem18	epistasis group	0.127511
+subsystem16	DNA glycosylases	0.0746318
+subsystem164	Deubiquitinating enzyme (DUB)	0.0808245
+subsystem15	DNA polymerase epsilon	0.182588
+subsystem154	Y-family DNA polymerases	0.127511
+subsystem14	damage in S phase	0.220434
+subsystem149	Ubiquitin-conjugating enzymes	0.146612
+subsystem134	Other MMR factors	0.111897
+subsystem0	DNA polymerases	0.440992

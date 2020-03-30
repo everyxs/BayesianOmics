@@ -1,0 +1,49 @@
+subsystem408	Ubiquitins	0.219083
+subsystem401	DSR	0.216946
+subsystem451	SSR	0.169403
+subsystem456	NER	0.0912839
+subsystem14	TLS	0.0489491
+subsystem7	NHEJ	0.0488627
+subsystem384	BER	0.0399108
+subsystem116	MMR	0.0382001
+subsystem29	Alt-NHEJ	0.0152088
+subsystem95	MutL homologs	0.17857
+subsystem8	Other SSR genes	0.0136134
+subsystem805	Repair pathway	0.618696
+subsystem6	Other MMR factors	0.17857
+subsystem58	Ubiquitin activating enzyme	0.439378
+subsystem52	Chromatin remodelling	0.053084
+subsystem4	Ubiquitin-conjugating enzymes	0.219221
+subsystem463	Direct Repair (not in humans)	0.0113713
+subsystem461	p53 pathway	0.110412
+subsystem42	UBL-specific proteases (ULPs)	0.088875
+subsystem413	Other BER factors	0.056055
+subsystem410	HRAD17(Rad24)- RFC complex	0.152122
+subsystem40	RFC (replication factor C)	0.0891719
+subsystem407	Topisomerase damage reversal	0.460412
+subsystem398	Checkpoint factors	0.115799
+subsystem396	Associated process	0.275786
+subsystem391	Chromosome segregation	0.109921
+subsystem38	RAD9-Hus1-Rad1 complex	0.129261
+subsystem389	Telomere maintenance	0.0698781
+subsystem37	Other DSR genes	0.0825165
+subsystem36	G1-S checkpoint	0.141118
+subsystem35	RPA (replication factor A)	0.17857
+subsystem313	LONG PATCH-BER factors	0.0920845
+subsystem292	Genes with probable DDR role	0.124492
+subsystem290	HR (Homologous Recombination)	0.0763877
+subsystem28	DNA replication	0.132382
+subsystem280	TCR (Transcription coupled repair)	0.0786706
+subsystem272	Ubiquitin response	0.0706181
+subsystem26	G2-M checkpoint	0.0937886
+subsystem269	G1-CC phase	0.0687886
+subsystem247	FA (Fanconi anemia pathway)	0.0661595
+subsystem1	Rad17-Mec3- Ddc1 complex	0.443789
+subsystem194	Y-family DNA polymerases	0.127843
+subsystem193	Deubiquitinating enzyme (DUB)	0.081921
+subsystem18	S-CC phase	0.298169
+subsystem164	Direct Repair	0.226442
+subsystem157	Modulation of nucleotide pools	0.10366
+subsystem149	DNA polymerases	0.220252
+subsystem134	GGR (Global genome repair)	0.0833374
+subsystem12	MRN Complex	0.175743

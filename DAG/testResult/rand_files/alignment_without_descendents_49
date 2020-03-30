@@ -1,0 +1,54 @@
+subsystem286	Ubiquitins	0.219974
+subsystem401	DSR	0.190249
+subsystem389	SSR	0.181455
+subsystem149	SUMO	0.126099
+subsystem272	BER	0.0991235
+subsystem290	NER	0.0953552
+subsystem405	TLS	0.0729929
+subsystem280	MMR	0.0507176
+subsystem408	NHEJ	0.0471007
+subsystem1	Alt-NHEJ	0.0134469
+subsystem96	AP endonucleases	0.180094
+subsystem95	p53 pathway	0.105364
+subsystem805	Repair pathway	0.618677
+subsystem6	DNA polymerase delta	0.0838708
+subsystem5	FA (Fanconi anemia pathway)	0.0377524
+subsystem58	DNA glycosylases	0.0794349
+subsystem52	S-CC phase	0.297861
+subsystem4	Topisomerase damage reversal	0.0229278
+subsystem49	Direct Repair (not in humans)	0.300885
+subsystem462	Other DSR genes	0.0863636
+subsystem461	Other SSR genes	0.0135911
+subsystem456	Ubiquitin response	0.105603
+subsystem451	TCR (Transcription coupled repair)	0.0523938
+subsystem43	G2-M checkpoint	0.163469
+subsystem42	UBL-activating enzymes	0.437956
+subsystem414	G1-CC phase	0.0791109
+subsystem39	DNA polymerase kappa	0.295215
+subsystem398	Chromatin remodelling	0.0609292
+subsystem396	Associated process	0.275341
+subsystem391	Other BER factors	0.0859125
+subsystem384	Checkpoint factors	0.0823526
+subsystem37	RPA (replication factor A)	0.150105
+subsystem36	Mismatch and loop recognition factors	0.127631
+subsystem35	MutL homologs	0.179272
+subsystem34	Modulation of nucleotide pools	0.142864
+subsystem33	Ubiquitins and Ubiquitin-like proteins	0.163716
+subsystem31	SHORT PATCH-BER factors	0.224364
+subsystem313	G1-S checkpoint	0.0857397
+subsystem2	DNA polymerase epsilon	0.178548
+subsystem292	Genes with probable DDR role	0.137363
+subsystem26	Deubiquitinating enzyme (DUB)	0.081849
+subsystem269	HRAD17(Rad24)- RFC complex	0.115569
+subsystem247	HR (Homologous Recombination)	0.0879058
+subsystem194	UBL-conjugating enzymes	0.438169
+subsystem193	Telomere maintenance	0.053436
+subsystem192	DNA replication	0.0159569
+subsystem18	UBL-specific proteases (ULPs)	0.0892447
+subsystem16	LONG PATCH-BER factors	0.197498
+subsystem164	Chromosome segregation	0.0658316
+subsystem15	Ubiquitin ligases (E3)	0.129469
+subsystem155	epistasis group	0.179692
+subsystem14	Ubiquitin-conjugating enzymes	0.181931
+subsystem134	MRN Complex	0.125833
+subsystem12	Direct Repair	0.183291

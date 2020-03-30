@@ -1,0 +1,53 @@
+subsystem401	DSR	0.193575
+subsystem389	SSR	0.185129
+subsystem408	SUMO	0.175438
+subsystem290	NER	0.106014
+subsystem391	TLS	0.0751734
+subsystem156	MMR	0.070967
+subsystem451	BER	0.0628115
+subsystem29	NHEJ	0.0470487
+subsystem407	Alt-NHEJ	0.0134488
+subsystem94	Chromatin remodelling	0.0802141
+subsystem8	G2-M checkpoint	0.0938077
+subsystem805	Repair pathway	0.618682
+subsystem5	Topisomerase damage reversal	0.0228886
+subsystem52	SHORT PATCH-BER factors	0.223331
+subsystem4	G1-S checkpoint	0.0858532
+subsystem49	FPC (fork protection complex)	0.298959
+subsystem463	G1-CC phase	0.0792244
+subsystem462	Other BER factors	0.0560511
+subsystem461	Other SSR genes	0.0135783
+subsystem456	TCR (Transcription coupled repair)	0.0655334
+subsystem43	HRAD17(Rad24)- RFC complex	0.116667
+subsystem42	MutL homologs	0.178323
+subsystem414	UBL-conjugating enzymes	0.437958
+subsystem413	Mismatch and loop recognition factors	0.221661
+subsystem410	Direct Repair (not in humans)	0.0110457
+subsystem40	DNA glycosylases	0.119995
+subsystem405	Chromosome segregation	0.0228886
+subsystem398	Telomere maintenance	0.0761691
+subsystem396	Associated process	0.27222
+subsystem384	Checkpoint factors	0.125717
+subsystem37	Ubiquitin ligases (E3)	0.113232
+subsystem36	G2-CC phase	0.153126
+subsystem35	Direct Repair	0.231623
+subsystem31	AP endonucleases	0.29533
+subsystem2	LONG PATCH-BER factors	0.0911631
+subsystem292	Genes with probable DDR role	0.11164
+subsystem28	damage in S phase	0.179769
+subsystem286	single Ring-finger type E4	0.438152
+subsystem280	HR (Homologous Recombination)	0.0851815
+subsystem272	FA (Fanconi anemia pathway)	0.080398
+subsystem269	MutS homologs specialized for meiosis	0.177911
+subsystem247	Ubiquitin response	0.0402009
+subsystem1	MRN Complex	0.219082
+subsystem193	p53 pathway	0.110389
+subsystem192	DNA replication	0.0162299
+subsystem164	RAD9-Hus1-Rad1 complex	0.153126
+subsystem157	Modulation of nucleotide pools	0.102778
+subsystem155	Deubiquitinating enzyme (DUB)	0.0632883
+subsystem14	UBL-specific proteases (ULPs)	0.0836303
+subsystem134	RFC (replication factor C)	0.100176
+subsystem11	RPA (replication factor A)	0.442099
+subsystem116	epistasis group	0.126189
+subsystem0	Other DSR genes	0.0863116

@@ -1,0 +1,54 @@
+subsystem4	Ubiquitins	0.219083
+subsystem451	DSR	0.203332
+subsystem401	SSR	0.193284
+subsystem463	SUMO	0.175438
+subsystem290	NER	0.112742
+subsystem272	MMR	0.0860538
+subsystem269	NHEJ	0.0782559
+subsystem280	BER	0.0775339
+subsystem391	TLS	0.073361
+subsystem7	Alt-NHEJ	0.0139037
+subsystem96	Ubiquitin-conjugating enzymes	0.146458
+subsystem94	MRN Complex	0.219152
+subsystem8	Ubiquitin ligases (E3)	0.128288
+subsystem805	Repair pathway	0.618697
+subsystem5	FA (Fanconi anemia pathway)	0.0377466
+subsystem58	MutL homologs	0.18062
+subsystem52	SHORT PATCH-BER factors	0.223343
+subsystem462	Chromatin remodelling	0.0853864
+subsystem461	Direct Repair	0.232342
+subsystem456	TCR (Transcription coupled repair)	0.0714103
+subsystem43	RAD9-Hus1-Rad1 complex	0.113652
+subsystem414	Topisomerase damage reversal	0.0228863
+subsystem413	Direct Repair (not in humans)	0.0108924
+subsystem40	Ubiquitin activating enzyme	0.146589
+subsystem408	DNA glycosylases	0.07751
+subsystem39	p53 pathway	0.0851013
+subsystem398	HR (Homologous Recombination)	0.0928713
+subsystem396	Associated process	0.266184
+subsystem38	epistasis group	0.111213
+subsystem389	Ubiquitin response	0.0653842
+subsystem384	Checkpoint factors	0.0823187
+subsystem36	Other DSR genes	0.135056
+subsystem35	Other BER factors	0.0566199
+subsystem34	HRAD17(Rad24)- RFC complex	0.151925
+subsystem313	Chromosome segregation	0.0775738
+subsystem2	Y-family DNA polymerases	0.12976
+subsystem29	GGR (Global genome repair)	0.116968
+subsystem292	Genes with probable DDR role	0.117285
+subsystem26	G1-S checkpoint	0.0858257
+subsystem247	Telomere maintenance	0.0541461
+subsystem1	Other SSR genes	0.0135916
+subsystem194	FPC (fork protection complex)	0.297758
+subsystem193	G2-M checkpoint	0.0937803
+subsystem192	DNA replication	0.0162501
+subsystem16	UBL-activating enzymes	0.451931
+subsystem164	DNA polymerase epsilon	0.181297
+subsystem15	Mismatch and loop recognition factors	0.22303
+subsystem157	Other MMR factors	0.129605
+subsystem156	Ubiquitin- activating enzymes (E1)	0.206999
+subsystem155	Modulation of nucleotide pools	0.0923112
+subsystem14	UBL-specific proteases (ULPs)	0.0836965
+subsystem134	DNA polymerase kappa	0.179881
+subsystem12	AP endonucleases	0.223046
+subsystem10	RPA (replication factor A)	0.177337

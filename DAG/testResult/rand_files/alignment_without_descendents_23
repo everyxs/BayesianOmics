@@ -1,0 +1,50 @@
+subsystem401	SSR	0.202861
+subsystem389	DSR	0.181734
+subsystem1	SUMO	0.175438
+subsystem96	Ubiquitins	0.146203
+subsystem290	NER	0.103702
+subsystem280	BER	0.0780562
+subsystem5	TLS	0.0729566
+subsystem192	NHEJ	0.0616928
+subsystem413	MMR	0.0441317
+subsystem407	Alt-NHEJ	0.0134477
+subsystem94	Other SSR genes	0.01411
+subsystem8	damage in S phase	0.297999
+subsystem805	Repair pathway	0.618697
+subsystem7	MutL homologs	0.179119
+subsystem6	RAD9-Hus1-Rad1 complex	0.153277
+subsystem52	MRN Complex	0.219083
+subsystem4	Topisomerase damage reversal	0.0228915
+subsystem463	Telomere maintenance	0.0533997
+subsystem462	LONG PATCH-BER factors	0.0920947
+subsystem461	DNA polymerase delta	0.0844086
+subsystem456	Checkpoint factors	0.121266
+subsystem451	Chromatin remodelling	0.0874205
+subsystem43	Other BER factors	0.101505
+subsystem42	Other single Ring- finger type E3	0.438321
+subsystem410	DNA replication	0.014383
+subsystem40	DNA glycosylases	0.12095
+subsystem408	G1-S checkpoint	0.0858773
+subsystem398	TCR (Transcription coupled repair)	0.0613526
+subsystem396	Associated process	0.278319
+subsystem391	Chromosome segregation	0.134871
+subsystem384	HR (Homologous Recombination)	0.0691802
+subsystem37	Direct Repair	0.01411
+subsystem35	UBL-specific proteases (ULPs)	0.0884867
+subsystem34	HRAD17(Rad24)- RFC complex	0.153277
+subsystem313	SHORT PATCH-BER factors	0.223345
+subsystem29	Other MMR factors	0.179119
+subsystem292	Genes with probable DDR role	0.0904284
+subsystem28	RFC (replication factor C)	0.111137
+subsystem286	S-CC phase	0.296932
+subsystem272	Ubiquitin response	0.0609448
+subsystem26	Other DSR genes	0.0863644
+subsystem269	Ubiquitins and Ubiquitin-like proteins	0.134958
+subsystem247	FA (Fanconi anemia pathway)	0.069605
+subsystem193	p53 pathway	0.110392
+subsystem164	Modulation of nucleotide pools	0.138018
+subsystem15	G2-M checkpoint	0.0949434
+subsystem157	Direct Repair (not in humans)	0.176663
+subsystem154	DNA polymerase epsilon	0.180618
+subsystem12	MutS homologs specialized for meiosis	0.221412
+subsystem0	GGR (Global genome repair)	0.116814

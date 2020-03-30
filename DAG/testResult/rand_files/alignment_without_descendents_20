@@ -1,0 +1,52 @@
+subsystem1	Ubiquitins	0.219082
+subsystem456	DSR	0.190599
+subsystem7	SUMO	0.175862
+subsystem401	SSR	0.170792
+subsystem290	NER	0.100604
+subsystem451	TLS	0.0803022
+subsystem461	NHEJ	0.0471008
+subsystem155	MMR	0.0339987
+subsystem463	BER	0.0323843
+subsystem193	Alt-NHEJ	0.013447
+subsystem96	LONG PATCH-BER factors	0.076048
+subsystem94	Ubiquitin-conjugating enzymes	0.219405
+subsystem8	Deubiquitinating enzyme (DUB)	0.0819336
+subsystem805	Repair pathway	0.618713
+subsystem6	G2-CC phase	0.299076
+subsystem5	Other DSR genes	0.0863637
+subsystem4	Topisomerase damage reversal	0.0229249
+subsystem462	Other SSR genes	0.0136099
+subsystem42	G1-S checkpoint	0.0843938
+subsystem413	Modulation of nucleotide pools	0.147925
+subsystem408	G1-CC phase	0.0791775
+subsystem407	Y-family DNA polymerases	0.12718
+subsystem405	Ubiquitins and Ubiquitin-like proteins	0.202693
+subsystem398	Ubiquitin response	0.0612523
+subsystem396	Associated process	0.313545
+subsystem391	Other BER factors	0.0576002
+subsystem389	Checkpoint factors	0.0948453
+subsystem384	FA (Fanconi anemia pathway)	0.0744108
+subsystem37	Riddle syndrome!	0.29275
+subsystem36	SHORT PATCH-BER factors	0.127087
+subsystem35	GGR (Global genome repair)	0.116555
+subsystem313	Telomere maintenance	0.0861117
+subsystem29	S-CC phase	0.299076
+subsystem292	Genes with probable DDR role	0.112135
+subsystem28	DNA polymerase delta	0.070976
+subsystem286	MRN Complex	0.219989
+subsystem280	HR (Homologous Recombination)	0.0745637
+subsystem272	Chromatin remodelling	0.0607033
+subsystem26	Mismatch and loop recognition factors	0.22166
+subsystem269	DNA replication	0.139403
+subsystem247	TCR (Transcription coupled repair)	0.0582221
+subsystem194	DNA polymerase epsilon	0.18218
+subsystem164	Alternative mechanism	0.202471
+subsystem15	p53 pathway	0.108312
+subsystem157	epistasis group	0.100066
+subsystem154	FPC (fork protection complex)	0.296515
+subsystem14	Other MMR factors	0.147995
+subsystem149	Chromosome segregation	0.0613535
+subsystem134	damage in S phase	0.149961
+subsystem12	Direct Repair	0.181878
+subsystem116	Direct Repair (not in humans)	0.299091
+subsystem0	UBL-specific proteases (ULPs)	0.0889837

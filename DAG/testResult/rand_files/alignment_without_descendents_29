@@ -1,0 +1,50 @@
+subsystem401	SSR	0.210041
+subsystem389	DSR	0.181741
+subsystem269	TLS	0.160116
+subsystem290	NER	0.0979564
+subsystem280	BER	0.09371
+subsystem398	NHEJ	0.0677589
+subsystem15	MMR	0.0146993
+subsystem29	Alt-NHEJ	0.0136226
+subsystem96	DNA polymerases	0.221885
+subsystem94	DNA polymerase kappa	0.445537
+subsystem8	Y-family DNA polymerases	0.127131
+subsystem805	Repair pathway	0.618723
+subsystem7	Other SSR genes	0.014668
+subsystem6	RAD9-Hus1-Rad1 complex	0.153576
+subsystem5	Direct Repair (not in humans)	0.0115494
+subsystem49	SHORT PATCH-BER factors	0.224088
+subsystem462	Chromatin remodelling	0.0853914
+subsystem461	FPC (fork protection complex)	0.297753
+subsystem456	Checkpoint factors	0.102263
+subsystem451	FA (Fanconi anemia pathway)	0.058941
+subsystem414	DNA polymerase epsilon	0.18245
+subsystem413	Modulation of nucleotide pools	0.147891
+subsystem40	Topisomerase damage reversal	0.158587
+subsystem407	UBL-specific proteases (ULPs)	0.0884765
+subsystem405	Telomere maintenance	0.0533995
+subsystem39	Ubiquitin-conjugating enzymes	0.17759
+subsystem396	Associated process	0.290896
+subsystem391	Chromosome segregation	0.0773671
+subsystem384	TCR (Transcription coupled repair)	0.0810912
+subsystem37	Direct Repair	0.189668
+subsystem36	Other BER factors	0.0490875
+subsystem35	DNA glycosylases	0.0783556
+subsystem34	HRAD17(Rad24)- RFC complex	0.153576
+subsystem292	Genes with probable DDR role	0.0872815
+subsystem272	Ubiquitin response	0.0659367
+subsystem26	p53 pathway	0.110391
+subsystem247	HR (Homologous Recombination)	0.0694607
+subsystem1	G1-S checkpoint	0.0856318
+subsystem194	Other DSR genes	0.0865392
+subsystem193	G1-CC phase	0.079003
+subsystem192	DNA replication	0.0179268
+subsystem164	G2-CC phase	0.297024
+subsystem157	Riddle syndrome!	0.221136
+subsystem154	damage in S phase	0.297024
+subsystem14	G2-M checkpoint	0.0812157
+subsystem149	Ubiquitin- conjugating enzymes (E2)	0.115875
+subsystem12	Deubiquitinating enzyme (DUB)	0.0740067
+subsystem116	S-CC phase	0.297024
+subsystem10	GGR (Global genome repair)	0.111556
+subsystem0	LONG PATCH-BER factors	0.092939

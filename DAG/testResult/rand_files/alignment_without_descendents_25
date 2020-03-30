@@ -1,0 +1,54 @@
+subsystem31	Ubiquitins	0.221495
+subsystem389	SSR	0.202034
+subsystem401	DSR	0.180262
+subsystem290	NER	0.126702
+subsystem280	MMR	0.0787465
+subsystem456	BER	0.0732681
+subsystem7	TLS	0.0681771
+subsystem2	NHEJ	0.0397518
+subsystem8	Alt-NHEJ	0.0134483
+subsystem96	Ubiquitin-conjugating enzymes	0.146432
+subsystem95	LONG PATCH-BER factors	0.0924384
+subsystem94	Other SSR genes	0.0138519
+subsystem805	Repair pathway	0.61869
+subsystem6	G2-M checkpoint	0.0942154
+subsystem58	RFC (replication factor C)	0.151083
+subsystem52	DNA polymerases	0.439682
+subsystem462	Other DSR genes	0.086365
+subsystem461	Direct Repair	0.232341
+subsystem451	Chromatin remodelling	0.065377
+subsystem43	Ubiquitin- conjugating enzymes (E2)	0.127436
+subsystem42	SHORT PATCH-BER factors	0.222423
+subsystem413	damage in S phase	0.297914
+subsystem410	RAD9-Hus1-Rad1 complex	0.15208
+subsystem408	Other BER factors	0.0560651
+subsystem407	Direct Repair (not in humans)	0.011449
+subsystem405	DNA replication	0.18938
+subsystem398	HR (Homologous Recombination)	0.0832344
+subsystem396	Associated process	0.275175
+subsystem391	Ubiquitin response	0.0789972
+subsystem38	epistasis group	0.111234
+subsystem384	FA (Fanconi anemia pathway)	0.0795124
+subsystem37	Chromosome segregation	0.069587
+subsystem35	UBL-specific proteases (ULPs)	0.089157
+subsystem33	UBL-conjugating enzymes	0.292415
+subsystem313	Mismatch and loop recognition factors	0.221661
+subsystem29	MutL homologs	0.179065
+subsystem292	Genes with probable DDR role	0.122288
+subsystem28	GGR (Global genome repair)	0.0917468
+subsystem286	Topisomerase damage reversal	0.447098
+subsystem272	Checkpoint factors	0.092039
+subsystem26	HRAD17(Rad24)- RFC complex	0.15208
+subsystem269	Rad17-Mec3- Ddc1 complex	0.224997
+subsystem247	TCR (Transcription coupled repair)	0.0585414
+subsystem1	p53 pathway	0.110387
+subsystem194	single Ring-finger type E3	0.437912
+subsystem193	Modulation of nucleotide pools	0.0228871
+subsystem18	DNA polymerase delta	0.0837923
+subsystem15	G1-S checkpoint	0.0862609
+subsystem157	Telomere maintenance	0.0644611
+subsystem154	G1-CC phase	0.077778
+subsystem149	DNA glycosylases	0.0661732
+subsystem134	DNA polymerase epsilon	0.114888
+subsystem12	Deubiquitinating enzyme (DUB)	0.0730204
+subsystem116	Y-family DNA polymerases	0.127294

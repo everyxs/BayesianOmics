@@ -1,0 +1,52 @@
+subsystem401	SSR	0.199642
+subsystem413	Alt-NHEJ	0.188448
+subsystem398	DSR	0.178895
+subsystem290	NER	0.103101
+subsystem280	BER	0.092885
+subsystem389	TLS	0.0894145
+subsystem37	MMR	0.0416701
+subsystem26	NHEJ	0.0134482
+subsystem96	DNA polymerase kappa	0.226927
+subsystem8	AP endonucleases	0.296261
+subsystem805	Repair pathway	0.618711
+subsystem7	DNA polymerases	0.442056
+subsystem5	DNA polymerase delta	0.0844155
+subsystem58	Modulation of nucleotide pools	0.142579
+subsystem52	LONG PATCH-BER factors	0.0920947
+subsystem4	S-CC phase	0.297889
+subsystem49	DNA glycosylases	0.0782284
+subsystem462	single Ring-finger type E4	0.438225
+subsystem461	Chromosome segregation	0.0776163
+subsystem456	Telomere maintenance	0.0654271
+subsystem451	Ubiquitin response	0.092725
+subsystem43	HRAD17(Rad24)- RFC complex	0.114534
+subsystem414	G2-M checkpoint	0.0937222
+subsystem410	FA (Fanconi anemia pathway)	0.0377537
+subsystem40	FPC (fork protection complex)	0.130159
+subsystem408	G1-CC phase	0.0791388
+subsystem396	Associated process	0.294709
+subsystem391	Topisomerase damage reversal	0.0229388
+subsystem384	Checkpoint factors	0.0963482
+subsystem36	Riddle syndrome!	0.176212
+subsystem35	GGR (Global genome repair)	0.117552
+subsystem33	Chromatin remodelling	0.0736313
+subsystem31	p53 pathway	0.0927574
+subsystem313	DNA polymerase epsilon	0.18245
+subsystem2	G2-CC phase	0.295395
+subsystem292	Genes with probable DDR role	0.0925912
+subsystem28	Direct Repair	0.151953
+subsystem286	Deubiquitinating enzyme (DUB)	0.0827966
+subsystem272	HR (Homologous Recombination)	0.0688737
+subsystem269	Other DSR genes	0.148064
+subsystem247	TCR (Transcription coupled repair)	0.0635386
+subsystem194	G1-S checkpoint	0.0861379
+subsystem193	Other MMR factors	0.177896
+subsystem192	DNA replication	0.0176578
+subsystem18	Y-family DNA polymerases	0.129478
+subsystem15	Other BER factors	0.114081
+subsystem154	UBL-specific proteases (ULPs)	0.0888887
+subsystem149	Direct Repair (not in humans)	0.181068
+subsystem134	Ubiquitin-conjugating enzymes	0.126064
+subsystem11	Other SSR genes	0.439854
+subsystem10	epistasis group	0.130615
+subsystem0	MutS homologs specialized for meiosis	0.295316

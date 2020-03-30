@@ -1,0 +1,52 @@
+subsystem313	Ubiquitins	0.219083
+subsystem401	SSR	0.199859
+subsystem389	DSR	0.182013
+subsystem1	SUMO	0.175438
+subsystem290	NER	0.118403
+subsystem398	TLS	0.0742385
+subsystem272	BER	0.0534826
+subsystem33	NHEJ	0.0406677
+subsystem0	MMR	0.0139051
+subsystem5	Alt-NHEJ	0.0134472
+subsystem96	epistasis group	0.100698
+subsystem95	Other SSR genes	0.013878
+subsystem8	MutL homologs	0.177911
+subsystem805	Repair pathway	0.618723
+subsystem7	G1-CC phase	0.079799
+subsystem6	Other MMR factors	0.177985
+subsystem52	G1-S checkpoint	0.0857001
+subsystem4	LONG PATCH-BER factors	0.0920811
+subsystem463	DNA glycosylases	0.0774977
+subsystem462	G2-M checkpoint	0.0936547
+subsystem461	Other DSR genes	0.0134472
+subsystem456	HR (Homologous Recombination)	0.0833468
+subsystem451	Checkpoint factors	0.0833169
+subsystem43	Telomere maintenance	0.0706661
+subsystem413	Modulation of nucleotide pools	0.147886
+subsystem410	Direct Repair (not in humans)	0.0118652
+subsystem40	DNA replication	0.104801
+subsystem407	GGR (Global genome repair)	0.116842
+subsystem405	p53 pathway	0.110386
+subsystem396	Associated process	0.30074
+subsystem391	UBL-specific proteases (ULPs)	0.0750157
+subsystem38	UBL-conjugating enzymes	0.295438
+subsystem384	FA (Fanconi anemia pathway)	0.074409
+subsystem37	Other BER factors	0.0531164
+subsystem36	DNA polymerases	0.1786
+subsystem34	SHORT PATCH-BER factors	0.223255
+subsystem31	HRAD17(Rad24)- RFC complex	0.149859
+subsystem29	Direct Repair	0.232628
+subsystem292	Genes with probable DDR role	0.0929439
+subsystem286	S-CC phase	0.295237
+subsystem280	Chromatin remodelling	0.0719303
+subsystem26	AP endonucleases	0.296248
+subsystem269	Ubiquitin response	0.0229686
+subsystem247	TCR (Transcription coupled repair)	0.0826864
+subsystem194	Chromosome segregation	0.0746538
+subsystem193	Ubiquitin-conjugating enzymes	0.219191
+subsystem192	Ubiquitin- conjugating enzymes (E2)	0.0878674
+subsystem157	Y-family DNA polymerases	0.100061
+subsystem154	Topisomerase damage reversal	0.449223
+subsystem149	Ubiquitins and Ubiquitin-like proteins	0.133791
+subsystem134	DNA polymerase kappa	0.180137
+subsystem12	RAD9-Hus1-Rad1 complex	0.128926

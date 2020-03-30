@@ -1,0 +1,52 @@
+subsystem389	DSR	0.207556
+subsystem461	Alt-NHEJ	0.188449
+subsystem401	SSR	0.173914
+subsystem398	NER	0.0876127
+subsystem155	NHEJ	0.0666141
+subsystem26	TLS	0.0619586
+subsystem451	BER	0.0533162
+subsystem192	MMR	0.0340509
+subsystem96	Ubiquitin activating enzyme	0.219397
+subsystem95	Y-family DNA polymerases	0.128622
+subsystem94	DNA glycosylases	0.0766973
+subsystem8	G1-S checkpoint	0.0857278
+subsystem805	Repair pathway	0.618701
+subsystem7	UBL-specific proteases (ULPs)	0.195712
+subsystem5	GGR (Global genome repair)	0.11686
+subsystem58	damage in S phase	0.29775
+subsystem52	HRAD17(Rad24)- RFC complex	0.152016
+subsystem4	G2-M checkpoint	0.0936823
+subsystem463	Topisomerase damage reversal	0.0229285
+subsystem462	Deubiquitinating enzyme (DUB)	0.0819203
+subsystem456	Ubiquitin response	0.070652
+subsystem414	Modulation of nucleotide pools	0.0229285
+subsystem413	Other DSR genes	0.086366
+subsystem410	p53 pathway	0.110429
+subsystem40	Rad17-Mec3- Ddc1 complex	0.150396
+subsystem408	Direct Repair (not in humans)	0.0114323
+subsystem405	SHORT PATCH-BER factors	0.223345
+subsystem396	Associated process	0.284583
+subsystem391	Chromatin remodelling	0.0857551
+subsystem384	Checkpoint factors	0.0869205
+subsystem34	DNA replication	0.186836
+subsystem31	S-CC phase	0.295375
+subsystem2	Chromosome segregation	0.0604994
+subsystem29	MRN Complex	0.219638
+subsystem292	FA (Fanconi anemia pathway)	0.0980044
+subsystem290	HR (Homologous Recombination)	0.107521
+subsystem28	TCR (Transcription coupled repair)	0.0657666
+subsystem280	Genes with probable DDR role	0.0862154
+subsystem272	Telomere maintenance	0.0933359
+subsystem269	Other SSR genes	0.0135897
+subsystem247	LONG PATCH-BER factors	0.0179457
+subsystem1	RPA (replication factor A)	0.177897
+subsystem193	Other BER factors	0.0560655
+subsystem18	epistasis group	0.12758
+subsystem164	RAD9-Hus1-Rad1 complex	0.150396
+subsystem15	G1-CC phase	0.0784106
+subsystem154	MutS homologs specialized for meiosis	0.293336
+subsystem149	Direct Repair	0.153301
+subsystem134	G2-CC phase	0.14964
+subsystem12	DNA polymerase epsilon	0.150798
+subsystem116	Ubiquitin-conjugating enzymes	0.219536
+subsystem0	DNA polymerases	0.441122

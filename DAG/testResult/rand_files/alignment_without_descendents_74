@@ -1,0 +1,54 @@
+subsystem95	Ubiquitins	0.21939
+subsystem272	SSR	0.195056
+subsystem401	DSR	0.186973
+subsystem39	Alt-NHEJ	0.151163
+subsystem37	SUMO	0.146461
+subsystem384	NER	0.125551
+subsystem5	TLS	0.0729914
+subsystem280	NHEJ	0.0616237
+subsystem247	MMR	0.0520915
+subsystem410	BER	0.0386205
+subsystem96	RPA (replication factor A)	0.127865
+subsystem8	AP endonucleases	0.296248
+subsystem805	Repair pathway	0.618698
+subsystem6	Y-family DNA polymerases	0.128262
+subsystem58	SHORT PATCH-BER factors	0.222768
+subsystem52	epistasis group	0.127195
+subsystem463	FA (Fanconi anemia pathway)	0.0377521
+subsystem462	UBL-activating enzymes	0.437763
+subsystem461	Chromatin remodelling	0.0530987
+subsystem456	HR (Homologous Recombination)	0.0786662
+subsystem451	Ubiquitin response	0.0708113
+subsystem42	G1-S checkpoint	0.0855473
+subsystem414	Topisomerase damage reversal	0.0229262
+subsystem413	FPC (fork protection complex)	0.297885
+subsystem40	Ubiquitin- conjugating enzymes (E2)	0.0908796
+subsystem408	Direct Repair	0.0135897
+subsystem405	Alternative mechanism	0.203043
+subsystem398	Checkpoint factors	0.105992
+subsystem396	Associated process	0.281397
+subsystem391	G2-M checkpoint	0.0742447
+subsystem389	Telomere maintenance	0.0600276
+subsystem36	UBL-specific proteases (ULPs)	0.068683
+subsystem35	Ubiquitin ligases (E3)	0.129253
+subsystem33	Mismatch and loop recognition factors	0.177991
+subsystem313	Other BER factors	0.0560517
+subsystem29	MRN Complex	0.21917
+subsystem292	TCR (Transcription coupled repair)	0.113036
+subsystem290	Genes with probable DDR role	0.0920922
+subsystem28	Riddle syndrome!	0.221701
+subsystem286	DNA replication	0.0144285
+subsystem269	Direct Repair (not in humans)	0.18604
+subsystem194	HRAD17(Rad24)- RFC complex	0.152652
+subsystem192	GGR (Global genome repair)	0.0660321
+subsystem16	MutS homologs specialized for meiosis	0.294247
+subsystem15	Modulation of nucleotide pools	0.143117
+subsystem157	Ubiquitin-conjugating enzymes	0.148404
+subsystem156	G1-CC phase	0.0674961
+subsystem154	DNA polymerases	0.440045
+subsystem14	Other SSR genes	0.293845
+subsystem149	G2-CC phase	0.181002
+subsystem134	Chromosome segregation	0.106036
+subsystem12	Ubiquitin-like proteins (UBLs)	0.134775
+subsystem116	Other DSR genes	0.0814775
+subsystem0	p53 pathway	0.105617

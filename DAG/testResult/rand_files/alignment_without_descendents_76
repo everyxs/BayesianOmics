@@ -1,0 +1,54 @@
+subsystem463	Ubiquitins	0.219083
+subsystem401	SSR	0.196533
+subsystem398	DSR	0.187641
+subsystem0	SUMO	0.17538
+subsystem290	NER	0.101805
+subsystem389	BER	0.0816825
+subsystem456	NHEJ	0.0517219
+subsystem269	TLS	0.0229728
+subsystem461	MMR	0.0136536
+subsystem5	Alt-NHEJ	0.0134484
+subsystem96	DNA polymerase kappa	0.226506
+subsystem94	S-CC phase	0.297937
+subsystem8	DNA replication	0.014404
+subsystem805	Repair pathway	0.618681
+subsystem7	G1-CC phase	0.0791867
+subsystem6	Direct Repair	0.232372
+subsystem58	G1-S checkpoint	0.0868731
+subsystem52	Y-family DNA polymerases	0.127195
+subsystem4	Other SSR genes	0.0136261
+subsystem451	Telomere maintenance	0.0824121
+subsystem43	G2-CC phase	0.18098
+subsystem414	Riddle syndrome!	0.438238
+subsystem413	LONG PATCH-BER factors	0.0920791
+subsystem410	Ubiquitin ligases (E3)	0.128303
+subsystem408	single Ring-finger type E3	0.438238
+subsystem407	RAD9-Hus1-Rad1 complex	0.151988
+subsystem405	Mismatch and loop recognition factors	0.221638
+subsystem396	Associated process	0.266303
+subsystem391	Ubiquitin response	0.0401854
+subsystem384	HR (Homologous Recombination)	0.0928781
+subsystem37	Chromosome segregation	0.126479
+subsystem36	AP endonucleases	0.150136
+subsystem34	Deubiquitinating enzyme (DUB)	0.0820073
+subsystem33	Alternative mechanism	0.162632
+subsystem313	GGR (Global genome repair)	0.116782
+subsystem29	Other MMR factors	0.178008
+subsystem292	Genes with probable DDR role	0.108226
+subsystem28	p53 pathway	0.0806308
+subsystem280	FA (Fanconi anemia pathway)	0.0739717
+subsystem272	Checkpoint factors	0.11075
+subsystem26	DNA glycosylases	0.0774958
+subsystem247	TCR (Transcription coupled repair)	0.077576
+subsystem1	Topisomerase damage reversal	0.022927
+subsystem193	Direct Repair (not in humans)	0.303214
+subsystem192	MRN Complex	0.200777
+subsystem164	Other DSR genes	0.0820614
+subsystem157	HRAD17(Rad24)- RFC complex	0.112288
+subsystem156	G2-M checkpoint	0.0786987
+subsystem155	Chromatin remodelling	0.0896502
+subsystem14	Rad17-Mec3- Ddc1 complex	0.293359
+subsystem149	Other BER factors	0.101525
+subsystem12	Modulation of nucleotide pools	0.121315
+subsystem11	UBL-specific proteases (ULPs)	0.0922931
+subsystem116	epistasis group	0.126842

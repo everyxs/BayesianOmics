@@ -1,0 +1,55 @@
+subsystem463	Ubiquitins	0.219082
+subsystem401	DSR	0.183726
+subsystem389	SSR	0.177208
+subsystem5	SUMO	0.175438
+subsystem134	Alt-NHEJ	0.115868
+subsystem290	BER	0.089657
+subsystem451	NER	0.0819594
+subsystem456	TLS	0.0683138
+subsystem29	NHEJ	0.0462983
+subsystem15	MMR	0.0123654
+subsystem96	Ubiquitin- conjugating enzymes (E2)	0.117006
+subsystem8	Chromosome segregation	0.077575
+subsystem805	Repair pathway	0.61873
+subsystem7	AP endonucleases	0.297509
+subsystem6	DNA polymerase epsilon	0.181455
+subsystem58	Direct Repair	0.230616
+subsystem52	UBL-specific proteases (ULPs)	0.0884765
+subsystem4	MRN Complex	0.219083
+subsystem462	FA (Fanconi anemia pathway)	0.0377483
+subsystem461	p53 pathway	0.0228875
+subsystem43	Topisomerase damage reversal	0.234424
+subsystem42	DNA replication	0.18503
+subsystem414	Modulation of nucleotide pools	0.0228875
+subsystem413	FPC (fork protection complex)	0.29798
+subsystem410	G1-S checkpoint	0.0858584
+subsystem40	epistasis group	0.0827615
+subsystem408	TCR (Transcription coupled repair)	0.0282391
+subsystem407	RPA (replication factor A)	0.177912
+subsystem405	GGR (Global genome repair)	0.116781
+subsystem39	RAD9-Hus1-Rad1 complex	0.127971
+subsystem398	Ubiquitin response	0.0764201
+subsystem396	Associated process	0.327271
+subsystem391	Other BER factors	0.0575903
+subsystem384	Checkpoint factors	0.0962735
+subsystem37	SHORT PATCH-BER factors	0.180842
+subsystem35	G2-M checkpoint	0.0935584
+subsystem33	Ubiquitin-like proteins (UBLs)	0.135062
+subsystem313	Ubiquitin-conjugating enzymes	0.21922
+subsystem2	G2-CC phase	0.294637
+subsystem292	Genes with probable DDR role	0.0827881
+subsystem28	LONG PATCH-BER factors	0.0759445
+subsystem280	Chromatin remodelling	0.089746
+subsystem272	Telomere maintenance	0.0707065
+subsystem26	S-CC phase	0.881313
+subsystem269	Other DSR genes	0.148058
+subsystem247	HR (Homologous Recombination)	0.0689678
+subsystem1	Direct Repair (not in humans)	0.30341
+subsystem194	HRAD17(Rad24)- RFC complex	0.151892
+subsystem193	damage in S phase	0.29798
+subsystem157	Other single Ring- finger type E3	0.221136
+subsystem155	DNA polymerase delta	0.0606045
+subsystem154	DNA glycosylases	0.077514
+subsystem12	Ubiquitins and Ubiquitin-like proteins	0.162439
+subsystem11	Other SSR genes	0.439433
+subsystem10	RFC (replication factor C)	0.148067

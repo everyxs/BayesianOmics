@@ -1,0 +1,51 @@
+subsystem6	Ubiquitins	0.219403
+subsystem456	SSR	0.206307
+subsystem389	DSR	0.198545
+subsystem391	TLS	0.0932865
+subsystem290	NER	0.0930026
+subsystem451	BER	0.087546
+subsystem280	MMR	0.0617367
+subsystem405	NHEJ	0.0471015
+subsystem5	Alt-NHEJ	0.0134476
+subsystem95	Ubiquitin-conjugating enzymes	0.219649
+subsystem94	G1-S checkpoint	0.086543
+subsystem805	Repair pathway	0.61872
+subsystem7	G2-CC phase	0.298664
+subsystem58	Other MMR factors	0.17918
+subsystem52	Other SSR genes	0.0135903
+subsystem4	MRN Complex	0.219082
+subsystem49	DNA polymerase epsilon	0.180291
+subsystem463	p53 pathway	0.0228878
+subsystem462	Chromosome segregation	0.0775753
+subsystem461	DNA replication	0.189381
+subsystem414	G1-CC phase	0.079172
+subsystem413	Modulation of nucleotide pools	0.0228878
+subsystem410	Deubiquitinating enzyme (DUB)	0.0819202
+subsystem40	Topisomerase damage reversal	0.156232
+subsystem408	Chromatin remodelling	0.0530602
+subsystem407	RPA (replication factor A)	0.177896
+subsystem401	Genes with probable DDR role	0.13495
+subsystem398	Checkpoint factors	0.0916039
+subsystem396	Associated process	0.275347
+subsystem38	MutS homologs specialized for meiosis	0.220962
+subsystem384	Telomere maintenance	0.0710194
+subsystem37	UBL-conjugating enzymes	0.292566
+subsystem36	Ubiquitin- conjugating enzymes (E2)	0.111428
+subsystem34	UBL-specific proteases (ULPs)	0.0889834
+subsystem313	Other DSR genes	0.0863643
+subsystem2	DNA polymerases	0.443616
+subsystem292	HR (Homologous Recombination)	0.100533
+subsystem286	Y-family DNA polymerases	0.126851
+subsystem272	FA (Fanconi anemia pathway)	0.0690428
+subsystem26	Direct Repair (not in humans)	0.0110831
+subsystem269	Ubiquitin response	0.0229803
+subsystem247	TCR (Transcription coupled repair)	0.0526474
+subsystem1	MutL homologs	0.177896
+subsystem193	G2-M checkpoint	0.0937554
+subsystem164	Direct Repair	0.229134
+subsystem15	LONG PATCH-BER factors	0.0919343
+subsystem154	FPC (fork protection complex)	0.296535
+subsystem149	GGR (Global genome repair)	0.0927909
+subsystem134	DNA glycosylases	0.0621616
+subsystem12	Other BER factors	0.107561
+subsystem10	DNA polymerase delta	0.0810873

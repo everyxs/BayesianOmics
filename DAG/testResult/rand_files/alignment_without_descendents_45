@@ -1,0 +1,53 @@
+subsystem6	Ubiquitins	0.219351
+subsystem401	DSR	0.193573
+subsystem18	Alt-NHEJ	0.183848
+subsystem389	SSR	0.169171
+subsystem37	SUMO	0.146213
+subsystem272	NER	0.0801761
+subsystem456	BER	0.0772005
+subsystem280	TLS	0.0650778
+subsystem414	NHEJ	0.0471011
+subsystem247	MMR	0.0468354
+subsystem96	p53 pathway	0.0910894
+subsystem95	G1-S checkpoint	0.0856351
+subsystem8	RPA (replication factor A)	0.177896
+subsystem805	Repair pathway	0.618669
+subsystem7	DNA replication	0.186555
+subsystem5	S-CC phase	0.297895
+subsystem58	DNA polymerase kappa	0.44272
+subsystem52	single Ring-finger type E4	0.43824
+subsystem4	TCR (Transcription coupled repair)	0.0282834
+subsystem462	Other DSR genes	0.0863639
+subsystem461	DNA glycosylases	0.0775114
+subsystem451	Chromatin remodelling	0.0703922
+subsystem40	G2-M checkpoint	0.0667874
+subsystem408	Other SSR genes	0.0136248
+subsystem407	Direct Repair	0.0136248
+subsystem405	Ubiquitin ligases (E3)	0.128303
+subsystem398	Checkpoint factors	0.0823148
+subsystem396	Associated process	0.278402
+subsystem391	Telomere maintenance	0.0591776
+subsystem38	Mismatch and loop recognition factors	0.176745
+subsystem384	FA (Fanconi anemia pathway)	0.0795101
+subsystem35	MutS homologs specialized for meiosis	0.295011
+subsystem34	Alternative mechanism	0.203813
+subsystem33	Modulation of nucleotide pools	0.119272
+subsystem313	Chromosome segregation	0.0775731
+subsystem292	Genes with probable DDR role	0.155016
+subsystem290	HR (Homologous Recombination)	0.0836995
+subsystem28	Ubiquitins and Ubiquitin-like proteins	0.134398
+subsystem286	UBL-specific proteases (ULPs)	0.0882174
+subsystem26	Direct Repair (not in humans)	0.0115951
+subsystem269	MRN Complex	0.350337
+subsystem1	GGR (Global genome repair)	0.116825
+subsystem193	AP endonucleases	0.296261
+subsystem192	Ubiquitin response	0.0604188
+subsystem15	Topisomerase damage reversal	0.455673
+subsystem155	HRAD17(Rad24)- RFC complex	0.0948811
+subsystem14	Other MMR factors	0.149946
+subsystem149	Ubiquitin-conjugating enzymes	0.14656
+subsystem134	G2-CC phase	0.149418
+subsystem12	RAD9-Hus1-Rad1 complex	0.129287
+subsystem116	LONG PATCH-BER factors	0.091757
+subsystem10	RFC (replication factor C)	0.149946
+subsystem0	Other BER factors	0.0561025

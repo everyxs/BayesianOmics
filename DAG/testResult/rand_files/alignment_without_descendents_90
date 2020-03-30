@@ -1,0 +1,52 @@
+subsystem384	DSR	0.213739
+subsystem31	SUMO	0.177597
+subsystem37	Ubiquitins	0.175698
+subsystem401	SSR	0.164166
+subsystem391	TLS	0.0673557
+subsystem451	BER	0.0629467
+subsystem389	NER	0.0524208
+subsystem280	NHEJ	0.0479039
+subsystem192	MMR	0.0340588
+subsystem58	Alt-NHEJ	0.0148951
+subsystem96	Direct Repair (not in humans)	0.184637
+subsystem94	SHORT PATCH-BER factors	0.22291
+subsystem8	UBL-activating enzymes	0.437733
+subsystem805	Repair pathway	0.618701
+subsystem7	G2-M checkpoint	0.0932901
+subsystem6	DNA glycosylases	0.0770768
+subsystem52	p53 pathway	0.0228768
+subsystem462	LONG PATCH-BER factors	0.0920947
+subsystem461	G1-S checkpoint	0.0858632
+subsystem456	Telomere maintenance	0.0704022
+subsystem43	Topisomerase damage reversal	0.231509
+subsystem414	Other BER factors	0.0560653
+subsystem413	Alternative mechanism	0.20289
+subsystem410	TCR (Transcription coupled repair)	0.0501318
+subsystem40	epistasis group	0.0820049
+subsystem408	Modulation of nucleotide pools	0.147877
+subsystem407	MRN Complex	0.219083
+subsystem405	Chromatin remodelling	0.0530492
+subsystem39	Ubiquitin ligases (E3)	0.114724
+subsystem398	Ubiquitin response	0.10337
+subsystem396	Associated process	0.287845
+subsystem38	RAD9-Hus1-Rad1 complex	0.294659
+subsystem36	Ubiquitins and Ubiquitin-like proteins	0.118238
+subsystem35	MutS homologs specialized for meiosis	0.293471
+subsystem34	single Ring-finger type E4	0.43874
+subsystem313	GGR (Global genome repair)	0.116824
+subsystem2	Y-family DNA polymerases	0.129358
+subsystem292	HR (Homologous Recombination)	0.126943
+subsystem290	FA (Fanconi anemia pathway)	0.0808142
+subsystem28	Ubiquitin-conjugating enzymes	0.149432
+subsystem272	Checkpoint factors	0.0866075
+subsystem26	Chromosome segregation	0.0228768
+subsystem269	S-CC phase	0.181318
+subsystem247	Genes with probable DDR role	0.0920922
+subsystem193	Other SSR genes	0.451089
+subsystem18	Direct Repair	0.22511
+subsystem15	DNA polymerase epsilon	0.180182
+subsystem155	Ubiquitin- conjugating enzymes (E2)	0.109607
+subsystem14	UBL-conjugating enzymes	0.298916
+subsystem149	DNA replication	0.133226
+subsystem12	RPA (replication factor A)	0.146853
+subsystem116	Other DSR genes	0.083914

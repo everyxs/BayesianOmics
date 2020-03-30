@@ -1,0 +1,52 @@
+subsystem401	SSR	0.199238
+subsystem15	Alt-NHEJ	0.187888
+subsystem49	SUMO	0.176077
+subsystem272	DSR	0.151537
+subsystem290	BER	0.0937758
+subsystem389	NER	0.0774579
+subsystem462	TLS	0.072954
+subsystem408	NHEJ	0.0470923
+subsystem456	MMR	0.0469926
+subsystem95	Riddle syndrome!	0.438454
+subsystem94	RPA (replication factor A)	0.178662
+subsystem8	GGR (Global genome repair)	0.116807
+subsystem805	Repair pathway	0.618668
+subsystem7	Other DSR genes	0.0858045
+subsystem6	HRAD17(Rad24)- RFC complex	0.154966
+subsystem58	FA (Fanconi anemia pathway)	0.0345531
+subsystem52	DNA replication	0.189381
+subsystem463	Ubiquitin activating enzyme	0.437733
+subsystem461	LONG PATCH-BER factors	0.0920934
+subsystem451	Checkpoint factors	0.130131
+subsystem414	FPC (fork protection complex)	0.297827
+subsystem413	Direct Repair (not in humans)	0.303392
+subsystem410	single Ring-finger type E3	0.438212
+subsystem40	S-CC phase	0.132308
+subsystem407	MutL homologs	0.177905
+subsystem405	Modulation of nucleotide pools	0.0228889
+subsystem398	Chromatin remodelling	0.0761413
+subsystem396	Associated process	0.288974
+subsystem391	Telomere maintenance	0.0780776
+subsystem384	Ubiquitin response	0.0712717
+subsystem37	Ubiquitin-like proteins (UBLs)	0.135181
+subsystem35	G1-S checkpoint	0.088678
+subsystem34	Direct Repair	0.0138301
+subsystem33	G1-CC phase	0.0746159
+subsystem313	Other SSR genes	0.451111
+subsystem2	SHORT PATCH-BER factors	0.224363
+subsystem292	Genes with probable DDR role	0.102792
+subsystem28	RFC (replication factor C)	0.25265
+subsystem280	HR (Homologous Recombination)	0.0753092
+subsystem26	Ubiquitin ligases (E3)	0.128238
+subsystem269	Mismatch and loop recognition factors	0.148738
+subsystem247	TCR (Transcription coupled repair)	0.0436616
+subsystem1	DNA polymerase delta	0.0844041
+subsystem193	Chromosome segregation	0.0775764
+subsystem192	p53 pathway	0.125782
+subsystem16	DNA polymerase epsilon	0.176406
+subsystem164	epistasis group	0.127164
+subsystem157	Topisomerase damage reversal	0.22469
+subsystem14	DNA glycosylases	0.0689847
+subsystem149	MRN Complex	0.146577
+subsystem134	Y-family DNA polymerases	0.0898941
+subsystem12	Other BER factors	0.0539171

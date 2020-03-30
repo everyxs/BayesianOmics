@@ -1,0 +1,51 @@
+subsystem42	Ubiquitins	0.219157
+subsystem451	DSR	0.211904
+subsystem95	Alt-NHEJ	0.189696
+subsystem389	SSR	0.16145
+subsystem272	NER	0.0869116
+subsystem384	TLS	0.0741763
+subsystem391	MMR	0.0707142
+subsystem247	BER	0.0580081
+subsystem408	NHEJ	0.0471022
+subsystem94	DNA polymerase epsilon	0.181028
+subsystem8	TCR (Transcription coupled repair)	0.0282714
+subsystem805	Repair pathway	0.618733
+subsystem7	Other DSR genes	0.0876126
+subsystem52	G2-M checkpoint	0.0936299
+subsystem4	MutL homologs	0.177897
+subsystem49	Chromatin remodelling	0.0784746
+subsystem463	Direct Repair	0.0136096
+subsystem462	Other SSR genes	0.45111
+subsystem461	DNA replication	0.189405
+subsystem456	Telomere maintenance	0.0555919
+subsystem43	epistasis group	0.100998
+subsystem413	RFC (replication factor C)	0.14873
+subsystem410	Deubiquitinating enzyme (DUB)	0.0819355
+subsystem40	Riddle syndrome!	0.146915
+subsystem407	HRAD17(Rad24)- RFC complex	0.151963
+subsystem405	Chromosome segregation	0.0776159
+subsystem401	Checkpoint factors	0.122114
+subsystem398	Ubiquitin response	0.0872434
+subsystem396	Associated process	0.317264
+subsystem36	Ubiquitin ligases (E3)	0.19552
+subsystem33	SHORT PATCH-BER factors	0.17799
+subsystem31	Mismatch and loop recognition factors	0.223332
+subsystem313	p53 pathway	0.110428
+subsystem292	Genes with probable DDR role	0.0722263
+subsystem290	FA (Fanconi anemia pathway)	0.0920141
+subsystem280	HR (Homologous Recombination)	0.0960656
+subsystem26	DNA glycosylases	0.0775114
+subsystem1	Topisomerase damage reversal	0.0229284
+subsystem194	G1-CC phase	0.0810456
+subsystem193	Other BER factors	0.0560653
+subsystem18	UBL-specific proteases (ULPs)	0.089588
+subsystem16	GGR (Global genome repair)	0.111374
+subsystem157	LONG PATCH-BER factors	0.0755324
+subsystem155	Y-family DNA polymerases	0.0829573
+subsystem14	G2-CC phase	0.220676
+subsystem149	Ubiquitin-conjugating enzymes	0.350752
+subsystem134	S-CC phase	0.15104
+subsystem12	Modulation of nucleotide pools	0.12535
+subsystem116	RPA (replication factor A)	0.178343
+subsystem10	Direct Repair (not in humans)	0.29227
+subsystem0	G1-S checkpoint	0.0876744

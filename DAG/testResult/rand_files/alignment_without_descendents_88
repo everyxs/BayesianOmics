@@ -1,0 +1,53 @@
+subsystem4	Ubiquitins	0.219082
+subsystem389	DSR	0.215769
+subsystem401	SSR	0.165314
+subsystem157	SUMO	0.127563
+subsystem456	NER	0.0934754
+subsystem154	TLS	0.0609845
+subsystem461	NHEJ	0.0471019
+subsystem247	BER	0.0430158
+subsystem155	MMR	0.0337054
+subsystem8	Alt-NHEJ	0.013448
+subsystem96	Chromosome segregation	0.0674827
+subsystem805	Repair pathway	0.618705
+subsystem7	Ubiquitin-conjugating enzymes	0.219412
+subsystem6	DNA glycosylases	0.0764375
+subsystem5	damage in S phase	0.298059
+subsystem58	Other DSR genes	0.173855
+subsystem52	Topisomerase damage reversal	0.0228866
+subsystem463	p53 pathway	0.110387
+subsystem462	Other SSR genes	0.0135758
+subsystem451	TCR (Transcription coupled repair)	0.0513848
+subsystem43	G1-CC phase	0.066967
+subsystem413	Alternative mechanism	0.202776
+subsystem410	Direct Repair (not in humans)	0.0114713
+subsystem40	AP endonucleases	0.127379
+subsystem407	MRN Complex	0.219083
+subsystem405	HRAD17(Rad24)- RFC complex	0.152226
+subsystem39	Y-family DNA polymerases	0.113679
+subsystem398	HR (Homologous Recombination)	0.107778
+subsystem396	Associated process	0.287475
+subsystem391	Chromatin remodelling	0.0833971
+subsystem384	Checkpoint factors	0.087026
+subsystem36	S-CC phase	0.1503
+subsystem35	G1-S checkpoint	0.181432
+subsystem34	MutL homologs	0.177384
+subsystem31	GGR (Global genome repair)	0.112105
+subsystem313	FPC (fork protection complex)	0.298059
+subsystem2	Mismatch and loop recognition factors	0.220826
+subsystem29	DNA polymerases	0.440437
+subsystem292	Genes with probable DDR role	0.123104
+subsystem290	FA (Fanconi anemia pathway)	0.0802369
+subsystem28	Deubiquitinating enzyme (DUB)	0.0674044
+subsystem286	DNA polymerase epsilon	0.17902
+subsystem280	Telomere maintenance	0.0661085
+subsystem272	Ubiquitin response	0.0813776
+subsystem26	Ubiquitins and Ubiquitin-like proteins	0.202686
+subsystem269	DNA replication	0.13938
+subsystem1	Modulation of nucleotide pools	0.0228866
+subsystem193	Other BER factors	0.0560651
+subsystem18	UBL-specific proteases (ULPs)	0.0888819
+subsystem164	Direct Repair	0.225634
+subsystem14	DNA polymerase delta	0.074337
+subsystem149	single Ring-finger type E4	0.219584
+subsystem116	RFC (replication factor C)	0.148121

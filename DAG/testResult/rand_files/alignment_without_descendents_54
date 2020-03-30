@@ -1,0 +1,53 @@
+subsystem35	Ubiquitins	0.219379
+subsystem401	DSR	0.203589
+subsystem456	SSR	0.190265
+subsystem451	NER	0.124727
+subsystem4	TLS	0.072993
+subsystem398	MMR	0.0681189
+subsystem247	BER	0.0485992
+subsystem134	NHEJ	0.0371678
+subsystem34	Alt-NHEJ	0.0141664
+subsystem96	Deubiquitinating enzyme (DUB)	0.0685958
+subsystem8	Y-family DNA polymerases	0.127169
+subsystem805	Repair pathway	0.618718
+subsystem7	single Ring-finger type E4	0.43867
+subsystem6	Other BER factors	0.0550458
+subsystem58	Riddle syndrome!	0.438825
+subsystem52	GGR (Global genome repair)	0.116842
+subsystem49	damage in S phase	0.297564
+subsystem462	Direct Repair	0.0136113
+subsystem42	Direct Repair (not in humans)	0.297415
+subsystem414	Modulation of nucleotide pools	0.147928
+subsystem413	Chromosome segregation	0.0776154
+subsystem410	Other SSR genes	0.451111
+subsystem40	HRAD17(Rad24)- RFC complex	0.200342
+subsystem408	Other DSR genes	0.0863647
+subsystem407	DNA glycosylases	0.0775078
+subsystem405	G2-M checkpoint	0.0937771
+subsystem396	Associated process	0.285167
+subsystem391	FA (Fanconi anemia pathway)	0.0634335
+subsystem389	Ubiquitin response	0.0557091
+subsystem384	TCR (Transcription coupled repair)	0.0662231
+subsystem37	UBL-specific proteases (ULPs)	0.0810003
+subsystem313	Topisomerase damage reversal	0.0229279
+subsystem29	G1-S checkpoint	0.0861073
+subsystem292	Genes with probable DDR role	0.087937
+subsystem290	HR (Homologous Recombination)	0.109029
+subsystem28	DNA replication	0.132321
+subsystem286	RFC (replication factor C)	0.149025
+subsystem280	Checkpoint factors	0.106422
+subsystem272	Telomere maintenance	0.0879945
+subsystem26	Other single Ring- finger type E3	0.438206
+subsystem269	UBL-conjugating enzymes	0.2192
+subsystem1	FPC (fork protection complex)	0.297944
+subsystem194	p53 pathway	0.106137
+subsystem193	AP endonucleases	0.296258
+subsystem18	RPA (replication factor A)	0.178668
+subsystem16	DNA polymerase delta	0.0811502
+subsystem155	Ubiquitin ligases (E3)	0.0822346
+subsystem154	Chromatin remodelling	0.0755152
+subsystem14	single Ring-finger type E3	0.297027
+subsystem149	LONG PATCH-BER factors	0.0755957
+subsystem12	DNA polymerase kappa	0.298798
+subsystem11	G1-CC phase	0.0755995
+subsystem116	Mismatch and loop recognition factors	0.222418

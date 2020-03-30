@@ -1,0 +1,49 @@
+subsystem389	DSR	0.198202
+subsystem401	SSR	0.196887
+subsystem52	SUMO	0.175438
+subsystem272	NER	0.102208
+subsystem398	BER	0.0828156
+subsystem451	MMR	0.0622333
+subsystem12	TLS	0.057812
+subsystem313	NHEJ	0.0471011
+subsystem414	Alt-NHEJ	0.0134473
+subsystem95	Other SSR genes	0.45115
+subsystem8	Direct Repair	0.23234
+subsystem805	Repair pathway	0.618711
+subsystem5	Ubiquitin ligases (E3)	0.128303
+subsystem58	UBL-specific proteases (ULPs)	0.0889202
+subsystem4	Ubiquitin response	0.022972
+subsystem463	p53 pathway	0.0229266
+subsystem462	Y-family DNA polymerases	0.127166
+subsystem456	Telomere maintenance	0.0654276
+subsystem413	RPA (replication factor A)	0.177911
+subsystem408	Chromosome segregation	0.0776141
+subsystem407	G1-S checkpoint	0.0856908
+subsystem405	Direct Repair (not in humans)	0.0112343
+subsystem396	Associated process	0.278483
+subsystem391	Chromatin remodelling	0.0834372
+subsystem38	damage in S phase	0.221982
+subsystem384	Checkpoint factors	0.0915783
+subsystem36	DNA polymerase delta	0.0661316
+subsystem35	single Ring-finger type E3	0.438627
+subsystem34	GGR (Global genome repair)	0.116838
+subsystem292	Genes with probable DDR role	0.120255
+subsystem290	HR (Homologous Recombination)	0.083595
+subsystem280	TCR (Transcription coupled repair)	0.063962
+subsystem26	Modulation of nucleotide pools	0.147927
+subsystem269	Other BER factors	0.0506314
+subsystem247	FA (Fanconi anemia pathway)	0.0696286
+subsystem1	Topisomerase damage reversal	0.0229266
+subsystem194	RAD9-Hus1-Rad1 complex	0.152597
+subsystem193	DNA replication	0.189404
+subsystem18	epistasis group	0.127148
+subsystem164	Deubiquitinating enzyme (DUB)	0.0814834
+subsystem15	AP endonucleases	0.297545
+subsystem157	Other DSR genes	0.0690573
+subsystem155	HRAD17(Rad24)- RFC complex	0.0955066
+subsystem154	G2-M checkpoint	0.0924113
+subsystem149	DNA polymerase kappa	0.224278
+subsystem134	Mismatch and loop recognition factors	0.12778
+subsystem116	DNA glycosylases	0.0775456
+subsystem10	RFC (replication factor C)	0.150023
+subsystem0	Other MMR factors	0.179051

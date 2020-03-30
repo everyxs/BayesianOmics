@@ -1,0 +1,55 @@
+subsystem389	DSR	0.206943
+subsystem405	Alt-NHEJ	0.188447
+subsystem401	SSR	0.18298
+subsystem157	Ubiquitins	0.151365
+subsystem37	SUMO	0.146666
+subsystem272	NER	0.109912
+subsystem391	TLS	0.0911259
+subsystem451	BER	0.0630736
+subsystem155	MMR	0.0356461
+subsystem58	NHEJ	0.0141602
+subsystem96	G1-CC phase	0.0693423
+subsystem95	DNA polymerase epsilon	0.182678
+subsystem94	Other DSR genes	0.085791
+subsystem8	DNA glycosylases	0.0775114
+subsystem805	Repair pathway	0.618738
+subsystem7	Mismatch and loop recognition factors	0.223053
+subsystem5	Topisomerase damage reversal	0.0228868
+subsystem52	MRN Complex	0.219082
+subsystem4	RAD9-Hus1-Rad1 complex	0.152155
+subsystem49	damage in S phase	0.29616
+subsystem463	RFC (replication factor C)	0.148722
+subsystem462	p53 pathway	0.110387
+subsystem456	Telomere maintenance	0.0654136
+subsystem43	Other BER factors	0.0493679
+subsystem40	Alternative mechanism	0.101747
+subsystem408	Direct Repair (not in humans)	0.0117781
+subsystem39	Direct Repair	0.181594
+subsystem398	Checkpoint factors	0.0869841
+subsystem396	Associated process	0.304296
+subsystem38	Ubiquitin ligases (E3)	0.111191
+subsystem384	Chromatin remodelling	0.0709902
+subsystem36	Other MMR factors	0.112015
+subsystem35	epistasis group	0.128239
+subsystem34	HRAD17(Rad24)- RFC complex	0.152676
+subsystem33	DNA replication	0.154259
+subsystem31	SHORT PATCH-BER factors	0.224409
+subsystem29	Chromosome segregation	0.0749207
+subsystem292	Genes with probable DDR role	0.0922797
+subsystem290	FA (Fanconi anemia pathway)	0.0900771
+subsystem28	G2-M checkpoint	0.0758764
+subsystem286	Ubiquitin activating enzyme	0.43874
+subsystem280	HR (Homologous Recombination)	0.0919231
+subsystem269	Rad17-Mec3- Ddc1 complex	0.225072
+subsystem247	TCR (Transcription coupled repair)	0.057797
+subsystem1	Other SSR genes	0.0136272
+subsystem193	UBL-conjugating enzymes	0.437958
+subsystem192	Ubiquitin response	0.0379567
+subsystem18	LONG PATCH-BER factors	0.0908153
+subsystem16	UBL-activating enzymes	0.451854
+subsystem156	Ubiquitin- activating enzymes (E1)	0.206011
+subsystem14	RPA (replication factor A)	0.148102
+subsystem134	Ubiquitin-like proteins (UBLs)	0.100325
+subsystem12	G1-S checkpoint	0.0774095
+subsystem116	Modulation of nucleotide pools	0.13808
+subsystem0	MutL homologs	0.179303

@@ -1,0 +1,50 @@
+subsystem401	SSR	0.183476
+subsystem272	DSR	0.178584
+subsystem269	Ubiquitins	0.146166
+subsystem398	NER	0.0827427
+subsystem39	NHEJ	0.0725536
+subsystem389	MMR	0.0618451
+subsystem313	TLS	0.0229199
+subsystem410	BER	0.0136461
+subsystem4	Alt-NHEJ	0.0134478
+subsystem96	Riddle syndrome!	0.219864
+subsystem8	Topisomerase damage reversal	0.022887
+subsystem805	Repair pathway	0.618723
+subsystem6	LONG PATCH-BER factors	0.0921678
+subsystem5	Deubiquitinating enzyme (DUB)	0.0819202
+subsystem52	UBL-specific proteases (ULPs)	0.0884765
+subsystem49	single Ring-finger type E3	0.438284
+subsystem462	MutS homologs specialized for meiosis	0.294578
+subsystem456	Chromatin remodelling	0.0754745
+subsystem451	FA (Fanconi anemia pathway)	0.0749498
+subsystem414	DNA polymerase epsilon	0.18245
+subsystem413	DNA replication	0.18938
+subsystem40	Chromosome segregation	0.106618
+subsystem408	Y-family DNA polymerases	0.127205
+subsystem405	Other SSR genes	0.0136154
+subsystem396	Associated process	0.320761
+subsystem391	TCR (Transcription coupled repair)	0.0353084
+subsystem38	Direct Repair	0.179001
+subsystem384	HR (Homologous Recombination)	0.0784951
+subsystem37	RPA (replication factor A)	0.149136
+subsystem36	HRAD17(Rad24)- RFC complex	0.22659
+subsystem34	DNA polymerase kappa	0.444643
+subsystem2	GGR (Global genome repair)	0.112109
+subsystem29	Direct Repair (not in humans)	0.299994
+subsystem292	Genes with probable DDR role	0.14539
+subsystem290	Checkpoint factors	0.140146
+subsystem280	Telomere maintenance	0.0678693
+subsystem26	DNA glycosylases	0.0775114
+subsystem247	Ubiquitin response	0.0523238
+subsystem1	Other DSR genes	0.0134478
+subsystem193	RFC (replication factor C)	0.148745
+subsystem192	Other BER factors	0.0391163
+subsystem18	S-CC phase	0.299507
+subsystem164	p53 pathway	0.102013
+subsystem155	Ubiquitin- activating enzymes (E1)	0.138173
+subsystem154	G1-S checkpoint	0.0873857
+subsystem14	Ubiquitin activating enzyme	0.300943
+subsystem134	G1-CC phase	0.131126
+subsystem12	MutL homologs	0.149161
+subsystem116	Mismatch and loop recognition factors	0.222077
+subsystem0	Modulation of nucleotide pools	0.145816

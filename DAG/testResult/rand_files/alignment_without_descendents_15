@@ -1,0 +1,51 @@
+subsystem5	Ubiquitins	0.219083
+subsystem398	DSR	0.217037
+subsystem451	SSR	0.206766
+subsystem31	SUMO	0.177598
+subsystem149	Alt-NHEJ	0.136322
+subsystem290	NER	0.110224
+subsystem272	BER	0.103345
+subsystem410	TLS	0.072974
+subsystem292	NHEJ	0.0721942
+subsystem313	MMR	0.0136384
+subsystem96	Chromosome segregation	0.0664599
+subsystem95	Deubiquitinating enzyme (DUB)	0.0818159
+subsystem94	UBL-activating enzymes	0.4379
+subsystem8	UBL-conjugating enzymes	0.437949
+subsystem805	Repair pathway	0.618748
+subsystem7	G1-S checkpoint	0.0861805
+subsystem58	UBL-specific proteases (ULPs)	0.0885847
+subsystem52	Other SSR genes	0.451112
+subsystem4	Topisomerase damage reversal	0.460409
+subsystem463	G2-CC phase	0.298037
+subsystem462	Modulation of nucleotide pools	0.147909
+subsystem461	HRAD17(Rad24)- RFC complex	0.152204
+subsystem456	Telomere maintenance	0.0755313
+subsystem42	Direct Repair	0.229079
+subsystem40	MutL homologs	0.0995531
+subsystem408	Direct Repair (not in humans)	0.0116178
+subsystem401	Genes with probable DDR role	0.108964
+subsystem39	Other BER factors	0.106495
+subsystem396	Associated process	0.278241
+subsystem391	Ubiquitin response	0.0408724
+subsystem38	epistasis group	0.111263
+subsystem389	FA (Fanconi anemia pathway)	0.0729607
+subsystem384	Checkpoint factors	0.105942
+subsystem36	p53 pathway	0.0769744
+subsystem34	damage in S phase	0.298302
+subsystem29	G1-CC phase	0.0795517
+subsystem286	MutS homologs specialized for meiosis	0.294045
+subsystem280	HR (Homologous Recombination)	0.0796109
+subsystem269	Other MMR factors	0.127912
+subsystem247	TCR (Transcription coupled repair)	0.0672923
+subsystem194	RAD9-Hus1-Rad1 complex	0.152468
+subsystem193	DNA glycosylases	0.0775116
+subsystem192	DNA replication	0.0167355
+subsystem18	LONG PATCH-BER factors	0.0935185
+subsystem16	Other DSR genes	0.074902
+subsystem164	G2-M checkpoint	0.0933274
+subsystem154	DNA polymerase epsilon	0.181231
+subsystem134	Chromatin remodelling	0.0640262
+subsystem12	DNA polymerase delta	0.0770028
+subsystem116	FPC (fork protection complex)	0.297494
+subsystem0	GGR (Global genome repair)	0.11582

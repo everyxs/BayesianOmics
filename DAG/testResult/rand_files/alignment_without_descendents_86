@@ -1,0 +1,56 @@
+subsystem463	Ubiquitins	0.219082
+subsystem451	SSR	0.198351
+subsystem401	DSR	0.170972
+subsystem290	NER	0.111211
+subsystem456	MMR	0.0768669
+subsystem389	BER	0.0670173
+subsystem391	NHEJ	0.0522805
+subsystem247	TLS	0.0433264
+subsystem462	Alt-NHEJ	0.0134465
+subsystem96	Chromatin remodelling	0.110774
+subsystem95	Other BER factors	0.0561387
+subsystem8	Riddle syndrome!	0.438222
+subsystem805	Repair pathway	0.618711
+subsystem6	DNA polymerase epsilon	0.182714
+subsystem5	Other SSR genes	0.0136187
+subsystem52	Chromosome segregation	0.0775654
+subsystem4	Topisomerase damage reversal	0.0228779
+subsystem461	FA (Fanconi anemia pathway)	0.0377521
+subsystem43	damage in S phase	0.182322
+subsystem42	Direct Repair	0.22816
+subsystem414	Deubiquitinating enzyme (DUB)	0.0819334
+subsystem413	Y-family DNA polymerases	0.127205
+subsystem410	Ubiquitin ligases (E3)	0.128301
+subsystem40	Telomere maintenance	0.0688701
+subsystem408	G1-CC phase	0.0790303
+subsystem405	G2-M checkpoint	0.0936136
+subsystem39	FPC (fork protection complex)	0.221677
+subsystem398	Checkpoint factors	0.125808
+subsystem396	Associated process	0.304318
+subsystem384	HR (Homologous Recombination)	0.0784931
+subsystem36	GGR (Global genome repair)	0.085749
+subsystem34	G2-CC phase	0.299045
+subsystem33	MRN Complex	0.175393
+subsystem313	Direct Repair (not in humans)	0.0112506
+subsystem2	single Ring-finger type E3	0.439995
+subsystem29	Modulation of nucleotide pools	0.145257
+subsystem292	Genes with probable DDR role	0.107016
+subsystem286	MutS homologs specialized for meiosis	0.294954
+subsystem280	Ubiquitin response	0.0694789
+subsystem272	TCR (Transcription coupled repair)	0.0562697
+subsystem26	RFC (replication factor C)	0.148745
+subsystem269	p53 pathway	0.0957946
+subsystem1	Other DSR genes	0.0863632
+subsystem193	G1-S checkpoint	0.0856591
+subsystem192	DNA replication	0.0176524
+subsystem18	HRAD17(Rad24)- RFC complex	0.153156
+subsystem164	Rad17-Mec3- Ddc1 complex	0.444822
+subsystem15	UBL-specific proteases (ULPs)	0.0887377
+subsystem157	Mismatch and loop recognition factors	0.147879
+subsystem155	DNA polymerase delta	0.0617341
+subsystem154	single Ring-finger type E4	0.438287
+subsystem134	AP endonucleases	0.148875
+subsystem12	SHORT PATCH-BER factors	0.178321
+subsystem11	DNA glycosylases	0.0747066
+subsystem116	RAD9-Hus1-Rad1 complex	0.153156
+subsystem10	LONG PATCH-BER factors	0.0892571

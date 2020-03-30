@@ -1,0 +1,54 @@
+subsystem10	Ubiquitins	0.226708
+subsystem456	SSR	0.202297
+subsystem389	DSR	0.194351
+subsystem398	NER	0.106104
+subsystem384	MMR	0.0785803
+subsystem451	BER	0.0778069
+subsystem272	TLS	0.0685203
+subsystem247	NHEJ	0.0576257
+subsystem461	Alt-NHEJ	0.0134485
+subsystem96	Direct Repair (not in humans)	0.185069
+subsystem94	UBL-specific proteases (ULPs)	0.0885416
+subsystem8	DNA glycosylases	0.0775112
+subsystem805	Repair pathway	0.618717
+subsystem6	p53 pathway	0.105615
+subsystem5	HRAD17(Rad24)- RFC complex	0.152051
+subsystem58	Other SSR genes	0.0137772
+subsystem52	Ubiquitin response	0.0229328
+subsystem4	Topisomerase damage reversal	0.0228858
+subsystem49	Deubiquitinating enzyme (DUB)	0.0811496
+subsystem463	Other DSR genes	0.0863652
+subsystem462	Direct Repair	0.0135904
+subsystem414	G1-S checkpoint	0.0857634
+subsystem413	G2-CC phase	0.297885
+subsystem410	Y-family DNA polymerases	0.127232
+subsystem40	S-CC phase	0.129382
+subsystem408	DNA replication	0.18938
+subsystem407	Chromatin remodelling	0.0530583
+subsystem405	Telomere maintenance	0.053394
+subsystem401	Genes with probable DDR role	0.149099
+subsystem39	Alternative mechanism	0.162453
+subsystem396	Associated process	0.281607
+subsystem391	Chromosome segregation	0.0818101
+subsystem38	MRN Complex	0.17903
+subsystem37	Mismatch and loop recognition factors	0.178473
+subsystem31	G1-CC phase	0.0765986
+subsystem313	UBL-conjugating enzymes	0.437949
+subsystem292	TCR (Transcription coupled repair)	0.0856994
+subsystem290	HR (Homologous Recombination)	0.107799
+subsystem28	epistasis group	0.0993861
+subsystem286	damage in S phase	0.295643
+subsystem280	Checkpoint factors	0.0927936
+subsystem26	GGR (Global genome repair)	0.116859
+subsystem269	AP endonucleases	0.179595
+subsystem1	Modulation of nucleotide pools	0.0228858
+subsystem193	FA (Fanconi anemia pathway)	0.0634485
+subsystem164	MutL homologs	0.179405
+subsystem157	UBL-activating enzymes	0.221613
+subsystem156	Ubiquitin- conjugating enzymes (E2)	0.135213
+subsystem155	Ubiquitins and Ubiquitin-like proteins	0.119706
+subsystem154	RPA (replication factor A)	0.179405
+subsystem149	G2-M checkpoint	0.0772983
+subsystem134	single Ring-finger type E4	0.175976
+subsystem11	Ubiquitin-conjugating enzymes	0.227814
+subsystem0	DNA polymerase epsilon	0.181601
