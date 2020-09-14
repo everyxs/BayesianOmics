@@ -24,7 +24,7 @@ pip install --upgrade tensorflow-gpu==2.0 --user
 pip install --upgrade tensorflow-probability==0.8 --user
 conda clean --all
 checkusage /u/yan30
-cd /home/filsilva/OAGContest/
+cd /home/filsilva/Shared/OAGContest/
 
 pip install gpustat --user
 gpustat
