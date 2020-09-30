@@ -18,7 +18,7 @@ jupyter kernelspec list
 conda info -e
 conda env create -f environment.yml --prefix /home/yan30/.conda
 module load anaconda/3
-source activate /home/yan30/.conda
+source activate /home/yan30/.tfProb
 -----use pip to overwrite the conda TF version-----
 pip install --upgrade tensorflow-gpu==2.0 --user
 pip install --upgrade tensorflow-probability==0.8 --user
