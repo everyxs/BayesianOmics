@@ -1,8 +1,1 @@
-numpy
-pandas
-matplotlib
-networkx
-seaborn
-scipy
-pymc3
-theano
+
