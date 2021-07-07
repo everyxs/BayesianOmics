@@ -231,8 +231,3 @@ dependencies:
   - zipp=3.4.1=pyhd3eb1b0_0
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.9=ha95c52a_0
-  - pip:
-    - ddot==1.0
-    - ndex-dev==3.0.11.41
-    - requests-toolbelt==0.9.1
-    - tulip-python==5.5.1
