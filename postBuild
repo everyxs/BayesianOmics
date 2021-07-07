@@ -1,0 +1,5 @@
+pip install graphviz
+git clone https://github.com/michaelkyu/ddot.git
+cd /ddot
+make
+pip install ddot/
