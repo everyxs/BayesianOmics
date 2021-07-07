@@ -1,5 +1,4 @@
-ddot==1.0
-ndex-dev==3.0.11.41
-requests-toolbelt==0.9.1
-tulip-python==5.5.1
-#https://github.com/idekerlab/ddot/blob/master/examples/1.0.0/Tutorial.ipynb
+libiconv
+tulip-python
+ndex-dev
+ddot/
