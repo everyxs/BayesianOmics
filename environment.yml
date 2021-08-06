@@ -231,3 +231,5 @@ dependencies:
   - zipp=3.4.1=pyhd3eb1b0_0
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.9=ha95c52a_0
+  - tensorflow_hub
+  - tensorflow_text
