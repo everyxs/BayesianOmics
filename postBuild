@@ -1,4 +1,4 @@
-pip install tensorflow-text
+pip install tensorflow-text=2.0.0
 pip install graphviz
 git clone https://github.com/michaelkyu/ddot.git
 cd /ddot
