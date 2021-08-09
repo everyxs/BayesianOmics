@@ -1,4 +1,7 @@
 pip install tensorflow-text==2.5
+pip install tensorboard==2.6
+pip install tensorflow-estimator==2.5.0
+pip install tensorflow-probability==0.11.0
 pip install graphviz
 git clone https://github.com/michaelkyu/ddot.git
 cd /ddot
