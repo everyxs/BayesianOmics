@@ -201,13 +201,13 @@ dependencies:
   - six=1.15.0=py37h06a4308_0
   - sniffio=1.2.0=py37h06a4308_1
   - sqlite=3.35.2=hdfb4753_0
-  - tensorboard=2.4.0=pyhc547734_0
+  - tensorboard=2.6.0=pyhc547734_0
   - tensorboard-plugin-wit=1.6.0=py_0
-  - tensorflow=2.0.0=gpu_py37h768510d_0
-  - tensorflow-base=2.0.0=gpu_py37h0ec5d1f_0
-  - tensorflow-estimator=2.0.0=pyh2649769_0
-  - tensorflow-gpu=2.0.0=h0d30ee6_0
-  - tensorflow-probability=0.8.0=py_0
+  - tensorflow=2.5.0=gpu_py37h768510d_0
+  - tensorflow-base=2.5.0=gpu_py37h0ec5d1f_0
+  - tensorflow-estimator=2.5.0=pyh2649769_0
+  - tensorflow-gpu=2.5.0=h0d30ee6_0
+  - tensorflow-probability=0.11.0=py_0
   - termcolor=1.1.0=py37h06a4308_1
   - terminado=0.9.3=py37h06a4308_0
   - testpath=0.4.4=pyhd3eb1b0_0
